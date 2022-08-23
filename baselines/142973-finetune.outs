@@ -1,0 +1,418 @@
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.decoder.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.decoder.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.predictions.decoder.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:01<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:02<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:02<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:02<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:02<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:01<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    loss_value = loss_model(features, labels)
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    result = self.forward(*input, **kwargs)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    input = module(input)
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    result = self.forward(*input, **kwargs)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    output_states = self.auto_model(**trans_features, return_dict=False)
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    result = self.forward(*input, **kwargs)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+Iteration:   0%|          | 0/41856 [00:00<?, ?it/s][AIteration:   0%|          | 0/41856 [00:02<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 535, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 62, in <module>
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    layer_output = apply_chunking_to_forward(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/pytorch_utils.py", line 241, in apply_chunking_to_forward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_attention_outputs = self.attention(
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 289, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 327, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    self_outputs = self.self(
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    mixed_query_layer = self.query(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+    attention_scores = torch.matmul(query_layer, key_layer.transpose(-1, -2))
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 289, in forward
+RuntimeError: CUDA out of memory. Tried to allocate 18.00 MiB (GPU 0; 23.70 GiB total capacity; 1.65 GiB already allocated; 9.56 MiB free; 1.74 GiB reserved in total by PyTorch)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 289, in forward
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    mixed_query_layer = self.query(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 289, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 345, in forward
+    mixed_query_layer = self.query(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    mixed_query_layer = self.query(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    attention_scores = attention_scores / math.sqrt(self.attention_head_size)
+RuntimeError: CUDA out of memory. Tried to allocate 22.00 MiB (GPU 0; 23.70 GiB total capacity; 852.77 MiB already allocated; 19.56 MiB free; 908.00 MiB reserved in total by PyTorch)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    return forward_fn(*input_tensors)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 547, in feed_forward_chunk
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    intermediate_output = self.intermediate(attention_output)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 447, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    hidden_states = self.dense(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 289, in forward
+    mixed_query_layer = self.query(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return torch._C._nn.linear(input, weight, bias)
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA out of memory. Tried to allocate 164.00 MiB (GPU 0; 23.70 GiB total capacity; 7.79 GiB already allocated; 37.56 MiB free; 7.94 GiB reserved in total by PyTorch)
+RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA error: CUBLAS_STATUS_ALLOC_FAILED when calling `cublasCreate(handle)`
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`
+srun: error: JX-ZY-GPU11: tasks 1,6: Exited with exit code 1
+srun: error: JX-ZY-GPU11: task 2: Exited with exit code 1
+srun: error: JX-ZY-GPU11: task 7: Exited with exit code 1
+srun: error: JX-ZY-GPU11: tasks 3,5: Exited with exit code 1
+srun: error: JX-ZY-GPU11: task 4: Exited with exit code 1
+srun: error: JX-ZY-GPU11: task 0: Exited with exit code 1

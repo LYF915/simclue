@@ -1,0 +1,201 @@
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.bias', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][A
+Iteration:   0%|          | 1/2678728 [00:01<964:56:49,  1.30s/it][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][A
+Iteration:   0%|          | 3/2678728 [00:01<358:18:30,  2.08it/s][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][AIteration:   0%|          | 0/2678728 [00:01<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 1/2678728 [00:01<1029:00:26,  1.38s/it][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][AIteration:   0%|          | 0/2678728 [00:01<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 4/2678728 [00:01<286:47:19,  2.59it/s][A
+Iteration:   0%|          | 1/2678728 [00:01<1081:37:48,  1.45s/it][AIteration:   0%|          | 1/2678728 [00:01<1172:00:14,  1.58s/it]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 1/2678728 [00:01<1028:12:57,  1.38s/it][A
+Iteration:   0%|          | 0/2678728 [00:00<?, ?it/s][AIteration:   0%|          | 0/2678728 [00:01<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 1/2678728 [00:01<1062:55:12,  1.43s/it][AIteration:   0%|          | 1/2678728 [00:01<1138:17:12,  1.53s/it]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 2/2678728 [00:01<569:53:27,  1.31it/s] [AIteration:   0%|          | 2/2678728 [00:01<626:43:59,  1.19it/s]
+Epoch:   0%|          | 0/3 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 5/2678728 [00:01<253:50:11,  2.93it/s][A
+Iteration:   0%|          | 2/2678728 [00:01<564:15:03,  1.32it/s] [A
+Iteration:   0%|          | 6/2678728 [00:01<222:23:49,  3.35it/s][A
+Iteration:   0%|          | 4/2678728 [00:01<306:33:18,  2.43it/s][A
+Iteration:   0%|          | 8/2678728 [00:02<178:13:02,  4.18it/s][AIteration:   0%|          | 9/2678728 [00:02<185:01:47,  4.02it/s]
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+Iteration:   0%|          | 6/2678728 [00:01<220:17:10,  3.38it/s][A
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 722, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 722, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 722, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 724, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 722, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 724, in fit
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 721, in fit
+    loss_value.backward()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/tensor.py", line 245, in backward
+    loss_value.backward()
+    loss_value.backward()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/tensor.py", line 245, in backward
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/tensor.py", line 245, in backward
+    optimizer.step()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/optim/lr_scheduler.py", line 65, in wrapper
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/__init__.py", line 145, in backward
+    optimizer.step()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/optim/lr_scheduler.py", line 65, in wrapper
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/__init__.py", line 145, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/__init__.py", line 145, in backward
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    return wrapped(*args, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/optim/optimizer.py", line 89, in wrapper
+    Variable._execution_engine.run_backward(
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 1.73 GiB already allocated; 15.56 MiB free; 1.89 GiB reserved in total by PyTorch)
+    Variable._execution_engine.run_backward(
+    return wrapped(*args, **kwargs)
+RuntimeError: CUDA out of memory. Tried to allocate 62.00 MiB (GPU 0; 23.70 GiB total capacity; 1.85 GiB already allocated; 13.56 MiB free; 2.02 GiB reserved in total by PyTorch)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/optim/optimizer.py", line 89, in wrapper
+    loss_value.backward()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/tensor.py", line 245, in backward
+    Variable._execution_engine.run_backward(
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 1.93 GiB already allocated; 27.56 MiB free; 2.13 GiB reserved in total by PyTorch)
+    return func(*args, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/__init__.py", line 145, in backward
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    return func(*args, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    Variable._execution_engine.run_backward(
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 1.68 GiB already allocated; 13.56 MiB free; 1.83 GiB reserved in total by PyTorch)
+    return func(*args, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/optim/adamw.py", line 93, in step
+    return func(*args, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/optim/adamw.py", line 93, in step
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    state['exp_avg_sq'] = torch.zeros_like(p, memory_format=torch.preserve_format)
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 934.30 MiB already allocated; 13.56 MiB free; 1.00 GiB reserved in total by PyTorch)
+    state['exp_avg_sq'] = torch.zeros_like(p, memory_format=torch.preserve_format)
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 1.46 GiB already allocated; 25.56 MiB free; 1.60 GiB reserved in total by PyTorch)
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 289, in forward
+    mixed_query_layer = self.query(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+Iteration:   0%|          | 8/2678728 [00:02<175:35:33,  4.24it/s][AIteration:   0%|          | 9/2678728 [00:02<181:12:18,  4.11it/s]
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/linear.py", line 94, in forward
+Epoch:   0%|          | 0/3 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 65, in <module>
+    return F.linear(input, self.weight, self.bias)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1753, in linear
+    return torch._C._nn.linear(input, weight, bias)
+RuntimeError: CUDA error: CUBLAS_STATUS_NOT_INITIALIZED when calling `cublasCreate(handle)`
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 722, in fit
+    loss_value.backward()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/tensor.py", line 245, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/__init__.py", line 145, in backward
+    Variable._execution_engine.run_backward(
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 1.92 GiB already allocated; 11.56 MiB free; 2.13 GiB reserved in total by PyTorch)
+srun: error: JX-ZY-GPU04: task 0: Exited with exit code 1
+srun: error: JX-ZY-GPU04: task 1: Exited with exit code 1
+srun: error: JX-ZY-GPU04: task 5: Exited with exit code 1
+srun: error: JX-ZY-GPU04: task 6: Exited with exit code 1
+srun: error: JX-ZY-GPU04: tasks 2-4: Exited with exit code 1
+srun: error: JX-ZY-GPU04: task 7: Exited with exit code 1

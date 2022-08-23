@@ -1,0 +1,951 @@
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight', 'cls.predictions.decoder.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.seq_relationship.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.decoder.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.seq_relationship.weight', 'cls.predictions.decoder.weight', 'cls.seq_relationship.bias', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 1/669682 [00:01<207:24:08,  1.11s/it][A
+Iteration:   0%|          | 2/669682 [00:01<112:37:40,  1.65it/s][A
+Iteration:   0%|          | 3/669682 [00:01<79:42:19,  2.33it/s] [A
+Iteration:   0%|          | 4/669682 [00:01<63:57:48,  2.91it/s][A
+Iteration:   0%|          | 5/669682 [00:01<54:06:02,  3.44it/s][A
+Iteration:   0%|          | 6/669682 [00:01<47:45:00,  3.90it/s][A
+Iteration:   0%|          | 7/669682 [00:01<43:00:46,  4.32it/s][A
+Iteration:   0%|          | 9/669682 [00:01<36:32:01,  5.09it/s][A
+Iteration:   0%|          | 10/669682 [00:02<34:44:17,  5.35it/s][A
+Iteration:   0%|          | 11/669682 [00:02<33:47:46,  5.50it/s][A
+Iteration:   0%|          | 12/669682 [00:02<32:26:53,  5.73it/s][A
+Iteration:   0%|          | 13/669682 [00:02<31:13:22,  5.96it/s][A
+Iteration:   0%|          | 14/669682 [00:02<30:22:38,  6.12it/s][A
+Iteration:   0%|          | 15/669682 [00:02<29:21:51,  6.33it/s][A
+Iteration:   0%|          | 16/669682 [00:02<28:33:47,  6.51it/s][A
+Iteration:   0%|          | 17/669682 [00:02<27:46:00,  6.70it/s][A
+Iteration:   0%|          | 18/669682 [00:02<27:17:14,  6.82it/s][A
+Iteration:   0%|          | 19/669682 [00:03<26:37:17,  6.99it/s][A
+Iteration:   0%|          | 20/669682 [00:03<26:15:11,  7.09it/s][A
+Iteration:   0%|          | 21/669682 [00:03<25:47:38,  7.21it/s][A
+Iteration:   0%|          | 22/669682 [00:03<25:19:26,  7.35it/s][A
+Iteration:   0%|          | 23/669682 [00:03<24:57:18,  7.45it/s][A
+Iteration:   0%|          | 24/669682 [00:03<24:32:53,  7.58it/s][A
+Iteration:   0%|          | 25/669682 [00:03<24:12:42,  7.68it/s][A
+Iteration:   0%|          | 26/669682 [00:03<23:53:57,  7.78it/s][A
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 27/669682 [00:03<23:33:12,  7.90it/s][A
+Iteration:   0%|          | 28/669682 [00:04<23:18:11,  7.98it/s][A
+Iteration:   0%|          | 29/669682 [00:04<23:03:50,  8.07it/s][A
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 30/669682 [00:04<22:51:16,  8.14it/s][A
+Iteration:   0%|          | 31/669682 [00:04<22:38:49,  8.21it/s][A
+Iteration:   0%|          | 33/669682 [00:04<22:16:26,  8.35it/s][A
+Iteration:   0%|          | 34/669682 [00:04<22:08:40,  8.40it/s][A
+Iteration:   0%|          | 35/669682 [00:04<22:02:05,  8.44it/s][A
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 36/669682 [00:04<22:01:18,  8.45it/s][A
+Iteration:   0%|          | 37/669682 [00:05<22:01:40,  8.44it/s][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 38/669682 [00:05<21:55:15,  8.49it/s][A
+Iteration:   0%|          | 1/669682 [00:01<227:24:59,  1.22s/it][A
+Iteration:   0%|          | 39/669682 [00:05<21:52:24,  8.50it/s][A
+Iteration:   0%|          | 2/669682 [00:01<123:16:06,  1.51it/s][A
+Iteration:   0%|          | 40/669682 [00:05<21:47:12,  8.54it/s][A
+Iteration:   0%|          | 3/669682 [00:01<88:12:55,  2.11it/s] [A
+Iteration:   0%|          | 41/669682 [00:05<21:42:37,  8.57it/s][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 4/669682 [00:01<70:27:48,  2.64it/s][A
+Iteration:   0%|          | 42/669682 [00:05<21:38:17,  8.60it/s][A
+Iteration:   0%|          | 1/669682 [00:01<238:18:08,  1.28s/it][A
+Iteration:   0%|          | 5/669682 [00:01<61:25:21,  3.03it/s][A
+Iteration:   0%|          | 2/669682 [00:01<129:29:41,  1.44it/s][A
+Iteration:   0%|          | 43/669682 [00:05<21:57:22,  8.47it/s][A
+Iteration:   0%|          | 6/669682 [00:01<55:50:45,  3.33it/s][A
+Iteration:   0%|          | 44/669682 [00:05<22:25:45,  8.29it/s][A
+Iteration:   0%|          | 3/669682 [00:01<93:22:41,  1.99it/s] [A
+Iteration:   0%|          | 7/669682 [00:02<50:22:39,  3.69it/s][A
+Iteration:   0%|          | 45/669682 [00:06<22:38:02,  8.22it/s][A
+Iteration:   0%|          | 4/669682 [00:01<76:03:29,  2.45it/s][A
+Iteration:   0%|          | 46/669682 [00:06<22:58:28,  8.10it/s][A
+Iteration:   0%|          | 8/669682 [00:02<47:21:54,  3.93it/s][A
+Iteration:   0%|          | 5/669682 [00:01<65:13:05,  2.85it/s][A
+Iteration:   0%|          | 47/669682 [00:06<23:06:56,  8.05it/s][A
+Iteration:   0%|          | 6/669682 [00:02<58:01:29,  3.21it/s][A
+Iteration:   0%|          | 9/669682 [00:02<44:57:31,  4.14it/s][A
+Iteration:   0%|          | 48/669682 [00:06<23:20:16,  7.97it/s][A
+Iteration:   0%|          | 10/669682 [00:02<43:12:56,  4.30it/s][A
+Iteration:   0%|          | 7/669682 [00:02<52:59:02,  3.51it/s][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 49/669682 [00:06<23:51:55,  7.79it/s][A
+Iteration:   0%|          | 11/669682 [00:02<42:02:54,  4.42it/s][A
+Iteration:   0%|          | 8/669682 [00:02<50:22:34,  3.69it/s][A
+Iteration:   0%|          | 1/669682 [00:01<323:29:20,  1.74s/it][A
+Iteration:   0%|          | 50/669682 [00:06<24:29:41,  7.59it/s][A
+Iteration:   0%|          | 12/669682 [00:02<41:15:58,  4.51it/s][A
+Iteration:   0%|          | 9/669682 [00:02<48:24:04,  3.84it/s][A
+Iteration:   0%|          | 2/669682 [00:01<175:22:02,  1.06it/s][A
+Iteration:   0%|          | 10/669682 [00:02<46:38:41,  3.99it/s][A
+Iteration:   0%|          | 51/669682 [00:07<24:58:06,  7.45it/s][A
+Iteration:   0%|          | 3/669682 [00:02<124:20:16,  1.50it/s][A
+Iteration:   0%|          | 13/669682 [00:03<40:19:16,  4.61it/s][A
+Iteration:   0%|          | 11/669682 [00:02<43:48:56,  4.25it/s][A
+Iteration:   0%|          | 4/669682 [00:02<99:07:52,  1.88it/s] [A
+Iteration:   0%|          | 52/669682 [00:07<25:24:12,  7.32it/s][A
+Iteration:   0%|          | 14/669682 [00:03<40:01:35,  4.65it/s][A
+Iteration:   0%|          | 15/669682 [00:03<39:10:58,  4.75it/s][A
+Iteration:   0%|          | 12/669682 [00:03<43:03:27,  4.32it/s][A
+Iteration:   0%|          | 53/669682 [00:07<25:56:43,  7.17it/s][A
+Iteration:   0%|          | 5/669682 [00:02<84:10:38,  2.21it/s][A
+Iteration:   0%|          | 16/669682 [00:03<38:20:29,  4.85it/s][A
+Iteration:   0%|          | 13/669682 [00:03<42:19:10,  4.40it/s][A
+Iteration:   0%|          | 6/669682 [00:02<74:31:26,  2.50it/s][A
+Iteration:   0%|          | 54/669682 [00:07<26:15:12,  7.09it/s][A
+Iteration:   0%|          | 7/669682 [00:02<67:16:31,  2.77it/s][A
+Iteration:   0%|          | 17/669682 [00:03<37:38:37,  4.94it/s][A
+Iteration:   0%|          | 14/669682 [00:03<41:18:19,  4.50it/s][A
+Iteration:   0%|          | 55/669682 [00:07<26:33:03,  7.01it/s][A
+Iteration:   0%|          | 18/669682 [00:03<37:12:02,  5.00it/s][A
+Iteration:   0%|          | 8/669682 [00:02<61:37:32,  3.02it/s][A
+Iteration:   0%|          | 15/669682 [00:03<40:19:50,  4.61it/s][A
+Iteration:   0%|          | 56/669682 [00:07<26:45:37,  6.95it/s][A
+Iteration:   0%|          | 9/669682 [00:03<57:26:38,  3.24it/s][A
+Iteration:   0%|          | 16/669682 [00:03<39:37:43,  4.69it/s][A
+Iteration:   0%|          | 57/669682 [00:08<27:05:09,  6.87it/s][A
+Iteration:   0%|          | 19/669682 [00:04<36:32:53,  5.09it/s][A
+Iteration:   0%|          | 20/669682 [00:04<36:32:53,  5.09it/s][A
+Iteration:   0%|          | 10/669682 [00:03<54:27:10,  3.42it/s][A
+Iteration:   0%|          | 58/669682 [00:08<27:18:01,  6.81it/s][A
+Iteration:   0%|          | 17/669682 [00:03<38:56:52,  4.78it/s][A
+Iteration:   0%|          | 11/669682 [00:03<52:14:14,  3.56it/s][A
+Iteration:   0%|          | 59/669682 [00:08<27:38:55,  6.73it/s][A
+Iteration:   0%|          | 21/669682 [00:04<36:13:29,  5.14it/s][A
+Iteration:   0%|          | 18/669682 [00:04<38:41:42,  4.81it/s][A
+Iteration:   0%|          | 19/669682 [00:04<38:15:02,  4.86it/s][A
+Iteration:   0%|          | 12/669682 [00:03<50:05:33,  3.71it/s][A
+Iteration:   0%|          | 60/669682 [00:08<27:53:56,  6.67it/s][A
+Iteration:   0%|          | 22/669682 [00:04<36:09:26,  5.14it/s][A
+Iteration:   0%|          | 13/669682 [00:03<48:35:54,  3.83it/s][A
+Iteration:   0%|          | 61/669682 [00:08<28:17:43,  6.57it/s][A
+Iteration:   0%|          | 20/669682 [00:04<37:42:43,  4.93it/s][A
+Iteration:   0%|          | 23/669682 [00:04<36:07:48,  5.15it/s][A
+Iteration:   0%|          | 14/669682 [00:03<46:57:08,  3.96it/s][A
+Iteration:   0%|          | 21/669682 [00:04<37:29:15,  4.96it/s][A
+Iteration:   0%|          | 62/669682 [00:08<28:28:09,  6.53it/s][A
+Iteration:   0%|          | 24/669682 [00:05<35:50:30,  5.19it/s][A
+Iteration:   0%|          | 15/669682 [00:04<45:28:59,  4.09it/s][A
+Iteration:   0%|          | 63/669682 [00:09<28:40:48,  6.49it/s][A
+Iteration:   0%|          | 25/669682 [00:05<35:37:21,  5.22it/s][A
+Iteration:   0%|          | 22/669682 [00:04<37:01:52,  5.02it/s][A
+Iteration:   0%|          | 23/669682 [00:05<36:56:35,  5.04it/s][A
+Iteration:   0%|          | 64/669682 [00:09<29:00:09,  6.41it/s][A
+Iteration:   0%|          | 26/669682 [00:05<35:25:19,  5.25it/s][A
+Iteration:   0%|          | 16/669682 [00:04<44:39:55,  4.16it/s][A
+Iteration:   0%|          | 27/669682 [00:05<35:14:55,  5.28it/s][A
+Iteration:   0%|          | 65/669682 [00:09<29:06:55,  6.39it/s][A
+Iteration:   0%|          | 24/669682 [00:05<36:27:04,  5.10it/s][A
+Iteration:   0%|          | 17/669682 [00:04<43:46:39,  4.25it/s][A
+Iteration:   0%|          | 25/669682 [00:05<36:22:15,  5.11it/s][A
+Iteration:   0%|          | 66/669682 [00:09<29:18:23,  6.35it/s][A
+Iteration:   0%|          | 28/669682 [00:05<34:54:25,  5.33it/s][A
+Iteration:   0%|          | 18/669682 [00:04<42:54:59,  4.33it/s][A
+Iteration:   0%|          | 26/669682 [00:05<36:01:47,  5.16it/s][A
+Iteration:   0%|          | 67/669682 [00:09<29:32:30,  6.30it/s][A
+Iteration:   0%|          | 29/669682 [00:05<34:56:41,  5.32it/s][A
+Iteration:   0%|          | 19/669682 [00:04<42:04:09,  4.42it/s][A
+Iteration:   0%|          | 68/669682 [00:10<29:38:56,  6.27it/s][A
+Iteration:   0%|          | 30/669682 [00:06<34:48:24,  5.34it/s][A
+Iteration:   0%|          | 20/669682 [00:05<41:16:43,  4.51it/s][A
+Iteration:   0%|          | 27/669682 [00:05<35:44:19,  5.20it/s][A
+Iteration:   0%|          | 69/669682 [00:10<29:40:06,  6.27it/s][A
+Iteration:   0%|          | 28/669682 [00:05<35:53:19,  5.18it/s][A
+Iteration:   0%|          | 21/669682 [00:05<40:46:37,  4.56it/s][A
+Iteration:   0%|          | 31/669682 [00:06<34:40:27,  5.36it/s][A
+Iteration:   0%|          | 70/669682 [00:10<30:00:47,  6.20it/s][A
+Iteration:   0%|          | 29/669682 [00:06<35:36:19,  5.22it/s][A
+Iteration:   0%|          | 22/669682 [00:05<40:09:24,  4.63it/s][A
+Iteration:   0%|          | 32/669682 [00:06<34:42:46,  5.36it/s][A
+Iteration:   0%|          | 71/669682 [00:10<30:11:06,  6.16it/s][A
+Iteration:   0%|          | 30/669682 [00:06<35:22:39,  5.26it/s][A
+Iteration:   0%|          | 23/669682 [00:05<39:34:12,  4.70it/s][A
+Iteration:   0%|          | 33/669682 [00:06<34:32:59,  5.38it/s][A
+Iteration:   0%|          | 24/669682 [00:05<39:02:51,  4.76it/s][A
+Iteration:   0%|          | 31/669682 [00:06<35:10:52,  5.29it/s][A
+Iteration:   0%|          | 72/669682 [00:10<30:13:13,  6.15it/s][A
+Iteration:   0%|          | 34/669682 [00:06<34:26:57,  5.40it/s][A
+Iteration:   0%|          | 25/669682 [00:05<38:24:01,  4.84it/s][A
+Iteration:   0%|          | 73/669682 [00:10<30:29:17,  6.10it/s][A
+Iteration:   0%|          | 32/669682 [00:06<35:01:54,  5.31it/s][A
+Iteration:   0%|          | 35/669682 [00:06<34:22:53,  5.41it/s][A
+Iteration:   0%|          | 74/669682 [00:11<30:34:06,  6.08it/s][A
+Iteration:   0%|          | 26/669682 [00:06<38:03:42,  4.89it/s][A
+Iteration:   0%|          | 33/669682 [00:06<34:55:46,  5.33it/s][A
+Iteration:   0%|          | 36/669682 [00:07<34:13:50,  5.43it/s][A
+Iteration:   0%|          | 27/669682 [00:06<37:45:56,  4.93it/s][A
+Iteration:   0%|          | 75/669682 [00:11<30:35:06,  6.08it/s][A
+Iteration:   0%|          | 34/669682 [00:06<34:44:55,  5.35it/s][A
+Iteration:   0%|          | 37/669682 [00:07<34:08:13,  5.45it/s][A
+Iteration:   0%|          | 35/669682 [00:07<34:35:04,  5.38it/s][A
+Iteration:   0%|          | 76/669682 [00:11<30:43:06,  6.06it/s][A
+Iteration:   0%|          | 28/669682 [00:06<37:22:53,  4.98it/s][A
+Iteration:   0%|          | 38/669682 [00:07<34:08:12,  5.45it/s][A
+Iteration:   0%|          | 29/669682 [00:06<37:21:26,  4.98it/s][A
+Iteration:   0%|          | 77/669682 [00:11<30:58:34,  6.00it/s][A
+Iteration:   0%|          | 39/669682 [00:07<34:04:42,  5.46it/s][A
+Iteration:   0%|          | 36/669682 [00:07<34:24:06,  5.41it/s][A
+Iteration:   0%|          | 40/669682 [00:07<33:56:16,  5.48it/s][A
+Iteration:   0%|          | 30/669682 [00:06<36:59:05,  5.03it/s][A
+Iteration:   0%|          | 78/669682 [00:11<31:03:43,  5.99it/s][A
+Iteration:   0%|          | 37/669682 [00:07<34:33:40,  5.38it/s][A
+Iteration:   0%|          | 41/669682 [00:08<33:38:00,  5.53it/s][A
+Iteration:   0%|          | 38/669682 [00:07<34:27:15,  5.40it/s][A
+Iteration:   0%|          | 31/669682 [00:06<36:33:13,  5.09it/s][A
+Iteration:   0%|          | 79/669682 [00:11<31:09:49,  5.97it/s][A
+Iteration:   0%|          | 42/669682 [00:08<33:42:29,  5.52it/s][A
+Iteration:   0%|          | 32/669682 [00:07<36:37:09,  5.08it/s][A
+Iteration:   0%|          | 80/669682 [00:12<31:19:27,  5.94it/s][A
+Iteration:   0%|          | 39/669682 [00:07<34:19:30,  5.42it/s][A
+Iteration:   0%|          | 33/669682 [00:07<36:20:57,  5.12it/s][A
+Iteration:   0%|          | 43/669682 [00:08<33:47:17,  5.51it/s][A
+Iteration:   0%|          | 81/669682 [00:12<31:25:15,  5.92it/s][A
+Iteration:   0%|          | 40/669682 [00:08<34:54:51,  5.33it/s][A
+Iteration:   0%|          | 34/669682 [00:07<35:55:05,  5.18it/s][A
+Iteration:   0%|          | 82/669682 [00:12<31:21:52,  5.93it/s][A
+Iteration:   0%|          | 44/669682 [00:08<33:35:29,  5.54it/s][A
+Iteration:   0%|          | 41/669682 [00:08<34:51:31,  5.34it/s][A
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 35/669682 [00:07<35:37:34,  5.22it/s][A
+Iteration:   0%|          | 83/669682 [00:12<31:22:13,  5.93it/s][A
+Iteration:   0%|          | 45/669682 [00:08<33:38:10,  5.53it/s][A
+Iteration:   0%|          | 42/669682 [00:08<34:37:23,  5.37it/s][A
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 36/669682 [00:07<35:15:25,  5.28it/s][A
+Iteration:   0%|          | 46/669682 [00:08<33:33:04,  5.54it/s][A
+Iteration:   0%|          | 84/669682 [00:12<31:23:52,  5.92it/s][A
+Iteration:   0%|          | 43/669682 [00:08<34:28:50,  5.39it/s][A
+Iteration:   0%|          | 47/669682 [00:09<33:19:37,  5.58it/s][A
+Iteration:   0%|          | 37/669682 [00:08<35:15:32,  5.28it/s][A
+Iteration:   0%|          | 85/669682 [00:13<31:28:35,  5.91it/s][A
+Iteration:   0%|          | 44/669682 [00:08<34:26:41,  5.40it/s][A
+Iteration:   0%|          | 48/669682 [00:09<33:17:48,  5.59it/s][A
+Iteration:   0%|          | 38/669682 [00:08<35:12:26,  5.28it/s][A
+Iteration:   0%|          | 86/669682 [00:13<31:33:49,  5.89it/s][A
+Iteration:   0%|          | 45/669682 [00:08<34:10:40,  5.44it/s][A
+Iteration:   0%|          | 49/669682 [00:09<33:16:41,  5.59it/s][A
+Iteration:   0%|          | 87/669682 [00:13<31:36:50,  5.88it/s][A
+Iteration:   0%|          | 39/669682 [00:08<35:04:27,  5.30it/s][A
+Iteration:   0%|          | 46/669682 [00:09<33:44:09,  5.51it/s][A
+Iteration:   0%|          | 88/669682 [00:13<31:45:53,  5.86it/s][A
+Iteration:   0%|          | 40/669682 [00:08<35:10:38,  5.29it/s][A
+Iteration:   0%|          | 50/669682 [00:09<33:23:47,  5.57it/s][A
+Iteration:   0%|          | 47/669682 [00:09<33:42:30,  5.52it/s][A
+Iteration:   0%|          | 48/669682 [00:09<33:35:33,  5.54it/s][A
+Iteration:   0%|          | 41/669682 [00:08<34:59:35,  5.32it/s][A
+Iteration:   0%|          | 89/669682 [00:13<31:45:26,  5.86it/s][A
+Iteration:   0%|          | 51/669682 [00:09<33:28:04,  5.56it/s][A
+Iteration:   0%|          | 52/669682 [00:09<33:26:00,  5.56it/s][A
+Iteration:   0%|          | 42/669682 [00:08<34:51:41,  5.34it/s][A
+Iteration:   0%|          | 49/669682 [00:09<33:28:04,  5.56it/s][A
+Iteration:   0%|          | 90/669682 [00:13<31:53:25,  5.83it/s][A
+Iteration:   0%|          | 53/669682 [00:10<33:14:53,  5.59it/s][A
+Iteration:   0%|          | 91/669682 [00:14<31:54:32,  5.83it/s][A
+Iteration:   0%|          | 50/669682 [00:09<33:24:57,  5.57it/s][A
+Iteration:   0%|          | 43/669682 [00:09<34:40:26,  5.36it/s][A
+Iteration:   0%|          | 51/669682 [00:09<33:23:04,  5.57it/s][A
+Iteration:   0%|          | 44/669682 [00:09<34:40:02,  5.37it/s][A
+Iteration:   0%|          | 54/669682 [00:10<33:11:57,  5.60it/s][A
+Iteration:   0%|          | 92/669682 [00:14<31:53:41,  5.83it/s][A
+Iteration:   0%|          | 55/669682 [00:10<33:00:44,  5.63it/s][A
+Iteration:   0%|          | 52/669682 [00:10<32:49:42,  5.67it/s][A
+Iteration:   0%|          | 45/669682 [00:09<34:04:14,  5.46it/s][A
+Iteration:   0%|          | 93/669682 [00:14<31:48:02,  5.85it/s][A
+Iteration:   0%|          | 53/669682 [00:10<33:08:33,  5.61it/s][A
+Iteration:   0%|          | 46/669682 [00:09<34:14:30,  5.43it/s][A
+Iteration:   0%|          | 94/669682 [00:14<31:52:00,  5.84it/s][A
+Iteration:   0%|          | 56/669682 [00:10<32:58:01,  5.64it/s][A
+Iteration:   0%|          | 54/669682 [00:10<33:08:38,  5.61it/s][A
+Iteration:   0%|          | 95/669682 [00:14<31:59:04,  5.82it/s][A
+Iteration:   0%|          | 57/669682 [00:10<33:10:27,  5.61it/s][A
+Iteration:   0%|          | 47/669682 [00:09<34:15:15,  5.43it/s][A
+Iteration:   0%|          | 96/669682 [00:14<31:53:57,  5.83it/s][A
+Iteration:   0%|          | 55/669682 [00:10<33:02:51,  5.63it/s][A
+Iteration:   0%|          | 58/669682 [00:11<33:06:06,  5.62it/s][A
+Iteration:   0%|          | 48/669682 [00:09<34:08:55,  5.45it/s][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 97/669682 [00:15<32:03:10,  5.80it/s][A
+Iteration:   0%|          | 59/669682 [00:11<33:13:55,  5.60it/s][A
+Iteration:   0%|          | 49/669682 [00:10<34:19:35,  5.42it/s][A
+Iteration:   0%|          | 56/669682 [00:10<33:14:09,  5.60it/s][A
+Iteration:   0%|          | 1/669682 [00:02<450:35:46,  2.42s/it][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 50/669682 [00:10<34:42:34,  5.36it/s][A
+Iteration:   0%|          | 98/669682 [00:15<32:40:01,  5.69it/s][A
+Iteration:   0%|          | 60/669682 [00:11<33:43:09,  5.52it/s][A
+Iteration:   0%|          | 57/669682 [00:11<33:59:49,  5.47it/s][A
+Iteration:   0%|          | 2/669682 [00:02<240:14:07,  1.29s/it][A
+Iteration:   0%|          | 1/669682 [00:02<468:21:55,  2.52s/it][A
+Iteration:   0%|          | 61/669682 [00:11<34:13:07,  5.44it/s][A
+Iteration:   0%|          | 51/669682 [00:10<35:01:41,  5.31it/s][A
+Iteration:   0%|          | 58/669682 [00:11<34:28:35,  5.40it/s][A
+Iteration:   0%|          | 3/669682 [00:02<171:39:05,  1.08it/s][A
+Iteration:   0%|          | 2/669682 [00:02<251:18:06,  1.35s/it][A
+Iteration:   0%|          | 52/669682 [00:10<35:51:49,  5.19it/s][A
+Iteration:   0%|          | 62/669682 [00:11<34:50:11,  5.34it/s][A
+Iteration:   0%|          | 59/669682 [00:11<35:12:02,  5.28it/s][A
+Iteration:   0%|          | 4/669682 [00:03<138:16:03,  1.35it/s][A
+Iteration:   0%|          | 3/669682 [00:02<177:41:36,  1.05it/s][A
+Iteration:   0%|          | 53/669682 [00:11<35:43:50,  5.21it/s][A
+Iteration:   0%|          | 63/669682 [00:12<35:04:25,  5.30it/s][A
+Iteration:   0%|          | 4/669682 [00:03<139:33:13,  1.33it/s][A
+Iteration:   0%|          | 60/669682 [00:11<35:24:14,  5.25it/s][A
+Iteration:   0%|          | 5/669682 [00:03<116:11:31,  1.60it/s][A
+Iteration:   0%|          | 64/669682 [00:12<35:23:35,  5.26it/s][A
+Iteration:   0%|          | 54/669682 [00:11<35:58:20,  5.17it/s][A
+Iteration:   0%|          | 61/669682 [00:12<35:44:59,  5.20it/s][A
+Iteration:   0%|          | 6/669682 [00:03<100:58:02,  1.84it/s][A
+Iteration:   0%|          | 5/669682 [00:03<115:55:55,  1.60it/s][A
+Iteration:   0%|          | 65/669682 [00:12<35:54:28,  5.18it/s][A
+Iteration:   0%|          | 55/669682 [00:11<36:43:33,  5.06it/s][A
+Iteration:   0%|          | 7/669682 [00:03<91:29:49,  2.03it/s] [A
+Iteration:   0%|          | 6/669682 [00:03<102:51:07,  1.81it/s][A
+Iteration:   0%|          | 62/669682 [00:12<36:09:13,  5.14it/s][A
+Iteration:   0%|          | 7/669682 [00:03<93:34:33,  1.99it/s] [AIteration:   0%|          | 7/669682 [00:03<105:42:13,  1.76it/s]
+Epoch:   0%|          | 0/3 [00:03<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 78, in <module>
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 713, in fit
+    scaler.scale(loss_value).backward()
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/tensor.py", line 245, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/autograd/__init__.py", line 145, in backward
+    Variable._execution_engine.run_backward(
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 2.19 GiB already allocated; 19.56 MiB free; 2.21 GiB reserved in total by PyTorch)
+Iteration:   0%|          | 66/669682 [00:12<36:34:32,  5.09it/s][A
+Iteration:   0%|          | 8/669682 [00:04<84:36:32,  2.20it/s][A
+Iteration:   0%|          | 63/669682 [00:12<36:46:47,  5.06it/s][A
+Iteration:   0%|          | 56/669682 [00:11<37:22:09,  4.98it/s][A
+Iteration:   0%|          | 67/669682 [00:13<36:48:02,  5.05it/s][A
+Iteration:   0%|          | 64/669682 [00:12<37:00:00,  5.03it/s][A
+Iteration:   0%|          | 57/669682 [00:12<37:44:23,  4.93it/s][A
+Iteration:   0%|          | 9/669682 [00:04<78:56:14,  2.36it/s][A
+Iteration:   0%|          | 65/669682 [00:12<36:56:38,  5.03it/s][A
+Iteration:   0%|          | 68/669682 [00:13<36:55:59,  5.04it/s][A
+Iteration:   0%|          | 58/669682 [00:12<37:38:39,  4.94it/s][A
+Iteration:   0%|          | 10/669682 [00:04<74:04:01,  2.51it/s][A
+Iteration:   0%|          | 11/669682 [00:04<70:13:56,  2.65it/s][A
+Iteration:   0%|          | 66/669682 [00:13<37:02:24,  5.02it/s][A
+Iteration:   0%|          | 59/669682 [00:12<37:52:28,  4.91it/s][A
+Iteration:   0%|          | 69/669682 [00:13<37:08:10,  5.01it/s][A
+Iteration:   0%|          | 67/669682 [00:13<37:20:50,  4.98it/s][A
+Iteration:   0%|          | 60/669682 [00:12<37:58:46,  4.90it/s][A
+Iteration:   0%|          | 12/669682 [00:04<66:33:59,  2.79it/s][A
+Iteration:   0%|          | 70/669682 [00:13<37:31:43,  4.96it/s][A
+Iteration:   0%|          | 13/669682 [00:05<63:57:48,  2.91it/s][A
+Iteration:   0%|          | 68/669682 [00:13<37:19:02,  4.98it/s][A
+Iteration:   0%|          | 61/669682 [00:12<37:59:02,  4.90it/s][A
+Iteration:   0%|          | 71/669682 [00:13<37:39:47,  4.94it/s][A
+Iteration:   0%|          | 14/669682 [00:05<61:20:17,  3.03it/s][A
+Iteration:   0%|          | 62/669682 [00:13<38:10:31,  4.87it/s][A
+Iteration:   0%|          | 69/669682 [00:13<37:36:49,  4.95it/s][A
+Iteration:   0%|          | 72/669682 [00:14<37:47:06,  4.92it/s][A
+Iteration:   0%|          | 15/669682 [00:05<59:16:07,  3.14it/s][A
+Iteration:   0%|          | 73/669682 [00:14<37:49:35,  4.92it/s][A
+Iteration:   0%|          | 70/669682 [00:14<37:49:54,  4.92it/s][A
+Iteration:   0%|          | 63/669682 [00:13<38:18:00,  4.86it/s][A
+Iteration:   0%|          | 74/669682 [00:14<37:51:52,  4.91it/s][A
+Iteration:   0%|          | 16/669682 [00:05<57:34:06,  3.23it/s][A
+Iteration:   0%|          | 64/669682 [00:13<38:42:49,  4.80it/s][A
+Iteration:   0%|          | 71/669682 [00:14<38:03:29,  4.89it/s][A
+Iteration:   0%|          | 75/669682 [00:14<37:50:40,  4.91it/s][A
+Iteration:   0%|          | 72/669682 [00:14<38:21:10,  4.85it/s][A
+Iteration:   0%|          | 65/669682 [00:13<38:42:57,  4.80it/s][A
+Iteration:   0%|          | 17/669682 [00:05<56:38:10,  3.28it/s][A
+Iteration:   0%|          | 76/669682 [00:14<37:52:58,  4.91it/s][A
+Iteration:   0%|          | 73/669682 [00:14<38:21:13,  4.85it/s][A
+Iteration:   0%|          | 66/669682 [00:14<38:48:04,  4.79it/s][A
+Iteration:   0%|          | 18/669682 [00:06<55:54:52,  3.33it/s][A
+Iteration:   0%|          | 77/669682 [00:15<38:10:49,  4.87it/s][A
+Iteration:   0%|          | 74/669682 [00:14<38:26:17,  4.84it/s][A
+Iteration:   0%|          | 67/669682 [00:14<38:57:12,  4.78it/s][A
+Iteration:   0%|          | 19/669682 [00:06<54:29:35,  3.41it/s][A
+Iteration:   0%|          | 20/669682 [00:06<53:31:36,  3.48it/s][AIteration:   0%|          | 20/669682 [00:06<62:44:44,  2.96it/s]
+Epoch:   0%|          | 0/3 [00:06<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 78, in <module>
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 710, in fit
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 348, in forward
+    attention_scores = attention_scores + attention_mask
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 2.24 GiB already allocated; 23.56 MiB free; 2.29 GiB reserved in total by PyTorch)
+Iteration:   0%|          | 75/669682 [00:15<38:34:53,  4.82it/s][A
+Iteration:   0%|          | 78/669682 [00:15<38:25:14,  4.84it/s][A
+Iteration:   0%|          | 68/669682 [00:14<39:04:07,  4.76it/s][A
+Iteration:   0%|          | 76/669682 [00:15<38:17:55,  4.86it/s][A
+Iteration:   0%|          | 79/669682 [00:15<38:23:47,  4.84it/s][A
+Iteration:   0%|          | 69/669682 [00:14<38:44:51,  4.80it/s][A
+Iteration:   0%|          | 80/669682 [00:15<38:14:55,  4.86it/s][A
+Iteration:   0%|          | 77/669682 [00:15<37:56:54,  4.90it/s][A
+Iteration:   0%|          | 70/669682 [00:14<38:37:14,  4.82it/s][A
+Iteration:   0%|          | 78/669682 [00:15<38:05:52,  4.88it/s][A
+Iteration:   0%|          | 71/669682 [00:15<38:25:30,  4.84it/s][A
+Iteration:   0%|          | 81/669682 [00:16<38:06:05,  4.88it/s][A
+Iteration:   0%|          | 82/669682 [00:16<37:49:19,  4.92it/s][A
+Iteration:   0%|          | 79/669682 [00:15<37:42:00,  4.93it/s][A
+Iteration:   0%|          | 72/669682 [00:15<38:03:26,  4.89it/s][A
+Iteration:   0%|          | 83/669682 [00:16<37:41:39,  4.93it/s][A
+Iteration:   0%|          | 80/669682 [00:16<37:40:29,  4.94it/s][A
+Iteration:   0%|          | 73/669682 [00:15<37:56:44,  4.90it/s][A
+Iteration:   0%|          | 84/669682 [00:16<37:28:19,  4.96it/s][A
+Iteration:   0%|          | 81/669682 [00:16<37:28:17,  4.96it/s][A
+Iteration:   0%|          | 74/669682 [00:15<37:44:54,  4.93it/s][A
+Iteration:   0%|          | 75/669682 [00:15<37:33:28,  4.95it/s][A
+Iteration:   0%|          | 85/669682 [00:16<37:10:44,  5.00it/s][A
+Iteration:   0%|          | 82/669682 [00:16<37:14:54,  4.99it/s][A
+Iteration:   0%|          | 76/669682 [00:15<37:11:07,  5.00it/s][A
+Iteration:   0%|          | 86/669682 [00:16<37:06:12,  5.01it/s][A
+Iteration:   0%|          | 83/669682 [00:16<37:08:19,  5.01it/s][A
+Iteration:   0%|          | 87/669682 [00:17<36:57:46,  5.03it/s][A
+Iteration:   0%|          | 84/669682 [00:16<36:59:53,  5.03it/s][A
+Iteration:   0%|          | 77/669682 [00:16<37:07:02,  5.01it/s][A
+Iteration:   0%|          | 88/669682 [00:17<36:43:40,  5.06it/s][A
+Iteration:   0%|          | 85/669682 [00:16<36:43:15,  5.07it/s][A
+Iteration:   0%|          | 78/669682 [00:16<36:57:13,  5.03it/s][A
+Iteration:   0%|          | 79/669682 [00:16<36:37:31,  5.08it/s][AIteration:   0%|          | 79/669682 [00:16<39:00:51,  4.77it/s]
+Epoch:   0%|          | 0/3 [00:16<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 78, in <module>
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 710, in fit
+    loss_value = loss_model(features, labels)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in forward
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/losses/CosineSimilarityLoss.py", line 39, in <listcomp>
+    embeddings = [self.model(sentence_feature)['sentence_embedding'] for sentence_feature in sentence_features]
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 535, in forward
+    layer_output = apply_chunking_to_forward(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/pytorch_utils.py", line 241, in apply_chunking_to_forward
+    return forward_fn(*input_tensors)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 547, in feed_forward_chunk
+    intermediate_output = self.intermediate(attention_output)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 448, in forward
+    hidden_states = self.intermediate_act_fn(hidden_states)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/activations.py", line 56, in forward
+    return self.act(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/functional.py", line 1459, in gelu
+    return torch._C._nn.gelu(input)
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 23.70 GiB total capacity; 2.47 GiB already allocated; 25.56 MiB free; 2.49 GiB reserved in total by PyTorch)
+Iteration:   0%|          | 86/669682 [00:17<36:18:52,  5.12it/s][A
+Iteration:   0%|          | 89/669682 [00:17<36:19:31,  5.12it/s][A
+Iteration:   0%|          | 87/669682 [00:17<35:52:28,  5.18it/s][A
+Iteration:   0%|          | 90/669682 [00:17<36:02:11,  5.16it/s][A
+Iteration:   0%|          | 91/669682 [00:17<35:33:00,  5.23it/s][A
+Iteration:   0%|          | 88/669682 [00:17<35:29:17,  5.24it/s][A
+Iteration:   0%|          | 92/669682 [00:17<34:52:21,  5.33it/s][A
+Iteration:   0%|          | 89/669682 [00:17<34:54:36,  5.33it/s][A
+Iteration:   0%|          | 93/669682 [00:18<34:26:08,  5.40it/s][A
+Iteration:   0%|          | 90/669682 [00:17<34:35:32,  5.38it/s][A
+Iteration:   0%|          | 94/669682 [00:18<34:04:09,  5.46it/s][A
+Iteration:   0%|          | 91/669682 [00:17<34:08:14,  5.45it/s][A
+Iteration:   0%|          | 95/669682 [00:18<33:42:48,  5.52it/s][A
+Iteration:   0%|          | 92/669682 [00:17<33:48:32,  5.50it/s][A
+Iteration:   0%|          | 96/669682 [00:18<33:20:35,  5.58it/s][A
+Iteration:   0%|          | 93/669682 [00:18<33:35:41,  5.54it/s][A
+Iteration:   0%|          | 97/669682 [00:18<33:00:03,  5.64it/s][A
+Iteration:   0%|          | 94/669682 [00:18<33:20:20,  5.58it/s][A
+Iteration:   0%|          | 98/669682 [00:18<32:44:49,  5.68it/s][A
+Iteration:   0%|          | 95/669682 [00:18<33:03:36,  5.63it/s][A
+Iteration:   0%|          | 96/669682 [00:18<32:42:58,  5.69it/s][A
+Iteration:   0%|          | 97/669682 [00:18<32:22:04,  5.75it/s][A
+Iteration:   0%|          | 98/669682 [00:18<31:52:25,  5.84it/s][A
+Iteration:   0%|          | 99/669682 [00:18<32:22:49,  5.74it/s][AIteration:   0%|          | 99/669682 [00:19<36:21:18,  5.12it/s]
+Epoch:   0%|          | 0/3 [00:19<?, ?it/s]
+Traceback (most recent call last):
+  File "/cephfs/luoyifei/work/SimCLUE/baselines/finetune_senbert.py", line 78, in <module>
+    model.fit(train_objectives=[(train_dataloader, train_loss)], epochs=3, warmup_steps=100, evaluator=evaluator,
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 735, in fit
+    self._eval_during_training(evaluator, output_path, save_best_model, epoch, training_steps, callback)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 777, in _eval_during_training
+    score = evaluator(self, output_path=eval_path, epoch=epoch, steps=steps)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/evaluation/BinaryClassificationEvaluator.py", line 83, in __call__
+    scores = self.compute_metrices(model)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/evaluation/BinaryClassificationEvaluator.py", line 113, in compute_metrices
+    embeddings = model.encode(sentences, batch_size=self.batch_size, show_progress_bar=self.show_progress_bar, convert_to_numpy=True)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/SentenceTransformer.py", line 165, in encode
+    out_features = self.forward(features)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/container.py", line 119, in forward
+    input = module(input)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/sentence_transformers/models/Transformer.py", line 66, in forward
+    output_states = self.auto_model(**trans_features, return_dict=False)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 1018, in forward
+    encoder_outputs = self.encoder(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 607, in forward
+    layer_outputs = layer_module(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 493, in forward
+    self_attention_outputs = self.attention(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 423, in forward
+    self_outputs = self.self(
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/torch/nn/modules/module.py", line 889, in _call_impl
+    result = self.forward(*input, **kwargs)
+  File "/nfs/users/luoyifei/anaconda3/envs/sentencebert/lib/python3.9/site-packages/transformers/models/bert/modeling_bert.py", line 361, in forward
+    context_layer = torch.matmul(attention_probs, value_layer)
+RuntimeError: CUDA out of memory. Tried to allocate 42.00 MiB (GPU 0; 23.70 GiB total capacity; 2.24 GiB already allocated; 19.56 MiB free; 2.51 GiB reserved in total by PyTorch)
+srun: error: JX-ZY-GPU03: task 0: Exited with exit code 1
+srun: error: JX-ZY-GPU03: task 5: Exited with exit code 1
+srun: error: JX-ZY-GPU03: task 3: Exited with exit code 1
+srun: error: JX-ZY-GPU03: task 4: Exited with exit code 1
+Iteration:   0%|          | 99/669682 [00:15<33:12:09,  5.60it/s][A
+Iteration:   0%|          | 100/669682 [00:59<439:04:10,  2.36s/it][A
+Iteration:   0%|          | 102/669682 [00:59<398:46:18,  2.14s/it][A
+Iteration:   0%|          | 104/669682 [00:59<363:57:49,  1.96s/it][A
+Iteration:   0%|          | 106/669682 [00:59<333:34:42,  1.79s/it][A
+Iteration:   0%|          | 107/669682 [00:59<319:44:07,  1.72s/it][A
+Iteration:   0%|          | 108/669682 [01:00<306:22:03,  1.65s/it][A
+Iteration:   0%|          | 109/669682 [01:00<293:30:50,  1.58s/it][A
+Iteration:   0%|          | 111/669682 [01:00<269:41:33,  1.45s/it][A
+Iteration:   0%|          | 113/669682 [01:00<248:39:03,  1.34s/it][A
+Iteration:   0%|          | 115/669682 [01:00<230:03:49,  1.24s/it][A
+Iteration:   0%|          | 117/669682 [01:00<213:33:01,  1.15s/it][A
+Iteration:   0%|          | 119/669682 [01:01<198:40:34,  1.07s/it][A
+Iteration:   0%|          | 120/669682 [01:01<191:50:25,  1.03s/it][A
+Iteration:   0%|          | 121/669682 [01:01<185:06:43,  1.00it/s][A
+Iteration:   0%|          | 123/669682 [01:01<172:22:16,  1.08it/s][A
+Iteration:   0%|          | 125/669682 [01:01<161:01:43,  1.15it/s][A
+Iteration:   0%|          | 127/669682 [01:01<150:40:50,  1.23it/s][A
+Iteration:   0%|          | 129/669682 [01:02<141:16:16,  1.32it/s][A
+Iteration:   0%|          | 99/669682 [00:18<31:28:25,  5.91it/s][A
+Iteration:   0%|          | 131/669682 [01:02<132:41:20,  1.40it/s][A
+Iteration:   0%|          | 100/669682 [00:57<394:27:36,  2.12s/it][A
+Iteration:   0%|          | 133/669682 [01:02<125:01:55,  1.49it/s][A
+Iteration:   0%|          | 101/669682 [00:58<376:03:23,  2.02s/it][A
+Iteration:   0%|          | 134/669682 [01:02<121:23:52,  1.53it/s][A
+Iteration:   0%|          | 102/669682 [00:58<358:10:50,  1.93s/it][A
+Iteration:   0%|          | 135/669682 [01:02<118:03:55,  1.58it/s][A
+Iteration:   0%|          | 103/669682 [00:58<341:26:13,  1.84s/it][A
+Iteration:   0%|          | 136/669682 [01:02<114:36:19,  1.62it/s][A
+Iteration:   0%|          | 104/669682 [00:58<325:19:33,  1.75s/it][A
+Iteration:   0%|          | 137/669682 [01:02<111:11:03,  1.67it/s][A
+Iteration:   0%|          | 105/669682 [00:58<309:59:54,  1.67s/it][A
+Iteration:   0%|          | 138/669682 [01:02<107:53:01,  1.72it/s][A
+Iteration:   0%|          | 106/669682 [00:58<295:26:52,  1.59s/it][A
+Iteration:   0%|          | 139/669682 [01:03<104:35:24,  1.78it/s][A
+Iteration:   0%|          | 107/669682 [00:58<281:38:20,  1.51s/it][A
+Iteration:   0%|          | 108/669682 [00:58<268:32:23,  1.44s/it][A
+Iteration:   0%|          | 140/669682 [01:03<101:27:30,  1.83it/s][A
+Iteration:   0%|          | 141/669682 [01:03<98:25:25,  1.89it/s] [A
+Iteration:   0%|          | 109/669682 [00:58<256:01:41,  1.38s/it][A
+Iteration:   0%|          | 142/669682 [01:03<95:22:17,  1.95it/s][A
+Iteration:   0%|          | 110/669682 [00:59<244:14:03,  1.31s/it][A
+Iteration:   0%|          | 143/669682 [01:03<92:27:11,  2.01it/s][A
+Iteration:   0%|          | 111/669682 [00:59<232:58:29,  1.25s/it][A
+Iteration:   0%|          | 144/669682 [01:03<89:34:09,  2.08it/s][A
+Iteration:   0%|          | 112/669682 [00:59<222:17:59,  1.20s/it][A
+Iteration:   0%|          | 145/669682 [01:03<86:48:39,  2.14it/s][A
+Iteration:   0%|          | 113/669682 [00:59<212:08:33,  1.14s/it][A
+Iteration:   0%|          | 146/669682 [01:03<84:07:39,  2.21it/s][A
+Iteration:   0%|          | 114/669682 [00:59<202:30:35,  1.09s/it][A
+Iteration:   0%|          | 147/669682 [01:03<81:29:08,  2.28it/s][A
+Iteration:   0%|          | 115/669682 [00:59<193:19:51,  1.04s/it][A
+Iteration:   0%|          | 148/669682 [01:04<78:56:58,  2.36it/s][A
+Iteration:   0%|          | 116/669682 [00:59<184:37:13,  1.01it/s][A
+Iteration:   0%|          | 149/669682 [01:04<76:31:29,  2.43it/s][A
+Iteration:   0%|          | 117/669682 [00:59<176:21:43,  1.05it/s][A
+Iteration:   0%|          | 150/669682 [01:04<74:10:56,  2.51it/s][A
+Iteration:   0%|          | 119/669682 [01:00<161:21:02,  1.15it/s][A
+Iteration:   0%|          | 151/669682 [01:04<71:53:40,  2.59it/s][A
+Iteration:   0%|          | 152/669682 [01:04<69:42:12,  2.67it/s][A
+Iteration:   0%|          | 120/669682 [01:00<154:37:32,  1.20it/s][A
+Iteration:   0%|          | 121/669682 [01:00<148:12:45,  1.25it/s][A
+Iteration:   0%|          | 153/669682 [01:04<67:34:58,  2.75it/s][A
+Iteration:   0%|          | 122/669682 [01:00<142:04:00,  1.31it/s][A
+Iteration:   0%|          | 154/669682 [01:04<65:36:21,  2.83it/s][A
+Iteration:   0%|          | 123/669682 [01:00<136:10:52,  1.37it/s][A
+Iteration:   0%|          | 155/669682 [01:04<63:38:22,  2.92it/s][A
+Iteration:   0%|          | 156/669682 [01:04<61:44:23,  3.01it/s][A
+Iteration:   0%|          | 124/669682 [01:00<130:37:43,  1.42it/s][A
+Iteration:   0%|          | 157/669682 [01:05<59:51:42,  3.11it/s][A
+Iteration:   0%|          | 125/669682 [01:00<125:16:33,  1.48it/s][A
+Iteration:   0%|          | 158/669682 [01:05<58:07:05,  3.20it/s][A
+Iteration:   0%|          | 127/669682 [01:00<115:28:09,  1.61it/s][A
+Iteration:   0%|          | 159/669682 [01:05<56:26:29,  3.30it/s][A
+Iteration:   0%|          | 160/669682 [01:05<54:48:03,  3.39it/s][A
+Iteration:   0%|          | 128/669682 [01:01<111:04:19,  1.67it/s][A
+Iteration:   0%|          | 129/669682 [01:01<106:54:42,  1.74it/s][A
+Iteration:   0%|          | 161/669682 [01:05<53:13:45,  3.49it/s][A
+Iteration:   0%|          | 130/669682 [01:01<102:47:33,  1.81it/s][A
+Iteration:   0%|          | 162/669682 [01:05<51:43:46,  3.60it/s][A
+Iteration:   0%|          | 163/669682 [01:05<50:18:25,  3.70it/s][A
+Iteration:   0%|          | 131/669682 [01:01<98:56:57,  1.88it/s] [A
+Iteration:   0%|          | 164/669682 [01:05<48:52:12,  3.81it/s][A
+Iteration:   0%|          | 133/669682 [01:01<91:44:31,  2.03it/s][A
+Iteration:   0%|          | 165/669682 [01:05<47:32:01,  3.91it/s][A
+Iteration:   0%|          | 134/669682 [01:01<88:28:31,  2.10it/s][A
+Iteration:   0%|          | 166/669682 [01:05<46:14:10,  4.02it/s][A
+Iteration:   0%|          | 167/669682 [01:06<44:58:48,  4.13it/s][A
+Iteration:   0%|          | 135/669682 [01:01<85:23:24,  2.18it/s][A
+Iteration:   0%|          | 168/669682 [01:06<43:46:48,  4.25it/s][A
+Iteration:   0%|          | 136/669682 [01:01<82:26:07,  2.26it/s][A
+Iteration:   0%|          | 169/669682 [01:06<42:37:37,  4.36it/s][A
+Iteration:   0%|          | 137/669682 [01:01<79:33:09,  2.34it/s][A
+Iteration:   0%|          | 170/669682 [01:06<41:34:59,  4.47it/s][A
+Iteration:   0%|          | 138/669682 [01:02<76:49:44,  2.42it/s][A
+Iteration:   0%|          | 171/669682 [01:06<40:33:00,  4.59it/s][A
+Iteration:   0%|          | 139/669682 [01:02<74:11:08,  2.51it/s][A
+Iteration:   0%|          | 140/669682 [01:02<71:42:08,  2.59it/s][A
+Iteration:   0%|          | 172/669682 [01:06<39:36:59,  4.69it/s][A
+Iteration:   0%|          | 141/669682 [01:02<69:15:14,  2.69it/s][A
+Iteration:   0%|          | 174/669682 [01:06<37:44:32,  4.93it/s][A
+Iteration:   0%|          | 142/669682 [01:02<66:54:57,  2.78it/s][A
+Iteration:   0%|          | 143/669682 [01:02<64:41:05,  2.88it/s][A
+Iteration:   0%|          | 175/669682 [01:06<36:57:31,  5.03it/s][A
+Iteration:   0%|          | 144/669682 [01:02<62:32:49,  2.97it/s][A
+Iteration:   0%|          | 177/669682 [01:07<35:20:22,  5.26it/s][A
+Iteration:   0%|          | 145/669682 [01:02<60:31:23,  3.07it/s][A
+Iteration:   0%|          | 178/669682 [01:07<34:40:08,  5.36it/s][A
+Iteration:   0%|          | 146/669682 [01:02<58:35:17,  3.17it/s][A
+Iteration:   0%|          | 179/669682 [01:07<34:00:44,  5.47it/s][A
+Iteration:   0%|          | 147/669682 [01:03<56:43:48,  3.28it/s][A
+Iteration:   0%|          | 180/669682 [01:07<33:23:16,  5.57it/s][A
+Iteration:   0%|          | 148/669682 [01:03<54:57:43,  3.38it/s][A
+Iteration:   0%|          | 181/669682 [01:07<32:46:54,  5.67it/s][A
+Iteration:   0%|          | 149/669682 [01:03<53:17:15,  3.49it/s][A
+Iteration:   0%|          | 182/669682 [01:07<32:13:33,  5.77it/s][A
+Iteration:   0%|          | 150/669682 [01:03<51:44:13,  3.59it/s][A
+Iteration:   0%|          | 183/669682 [01:07<31:39:15,  5.88it/s][A
+Iteration:   0%|          | 151/669682 [01:03<50:11:46,  3.71it/s][A
+Iteration:   0%|          | 184/669682 [01:07<31:08:27,  5.97it/s][A
+Iteration:   0%|          | 152/669682 [01:03<48:44:34,  3.82it/s][A
+Iteration:   0%|          | 153/669682 [01:03<47:22:26,  3.93it/s][A
+Iteration:   0%|          | 185/669682 [01:07<30:38:41,  6.07it/s][A
+Iteration:   0%|          | 186/669682 [01:08<30:14:05,  6.15it/s][A
+Iteration:   0%|          | 154/669682 [01:03<46:02:59,  4.04it/s][A
+Iteration:   0%|          | 187/669682 [01:08<29:44:36,  6.25it/s][A
+Iteration:   0%|          | 155/669682 [01:03<44:48:35,  4.15it/s][A
+Iteration:   0%|          | 188/669682 [01:08<29:18:07,  6.35it/s][A
+Iteration:   0%|          | 156/669682 [01:03<43:38:45,  4.26it/s][A
+Iteration:   0%|          | 189/669682 [01:08<28:51:25,  6.44it/s][A
+Iteration:   0%|          | 157/669682 [01:04<42:29:15,  4.38it/s][A
+Iteration:   0%|          | 190/669682 [01:08<28:28:41,  6.53it/s][A
+Iteration:   0%|          | 158/669682 [01:04<41:25:55,  4.49it/s][A
+Iteration:   0%|          | 191/669682 [01:08<28:08:18,  6.61it/s][A
+Iteration:   0%|          | 159/669682 [01:04<40:24:11,  4.60it/s][A
+Iteration:   0%|          | 192/669682 [01:08<27:47:23,  6.69it/s][A
+Iteration:   0%|          | 160/669682 [01:04<39:27:49,  4.71it/s][A
+Iteration:   0%|          | 193/669682 [01:08<27:23:27,  6.79it/s][A
+Iteration:   0%|          | 161/669682 [01:04<38:32:05,  4.83it/s][A
+Iteration:   0%|          | 194/669682 [01:08<27:02:33,  6.88it/s][A
+Iteration:   0%|          | 162/669682 [01:04<37:37:29,  4.94it/s][A
+Iteration:   0%|          | 195/669682 [01:09<26:43:42,  6.96it/s][A
+Iteration:   0%|          | 163/669682 [01:04<36:47:01,  5.06it/s][A
+Iteration:   0%|          | 196/669682 [01:09<26:27:05,  7.03it/s][A
+Iteration:   0%|          | 164/669682 [01:04<35:59:06,  5.17it/s][A
+Iteration:   0%|          | 165/669682 [01:04<35:11:59,  5.28it/s][A
+Iteration:   0%|          | 197/669682 [01:09<26:10:09,  7.11it/s][A
+Iteration:   0%|          | 198/669682 [01:09<25:54:07,  7.18it/s][A
+Iteration:   0%|          | 166/669682 [01:05<34:25:01,  5.40it/s][A
+Iteration:   0%|          | 167/669682 [01:05<33:45:34,  5.51it/s][A
+Iteration:   0%|          | 168/669682 [01:05<33:04:50,  5.62it/s][A
+Iteration:   0%|          | 170/669682 [01:05<31:52:36,  5.83it/s][A
+Iteration:   0%|          | 171/669682 [01:05<31:29:27,  5.91it/s][A
+Iteration:   0%|          | 172/669682 [01:05<31:06:32,  5.98it/s][A
+Iteration:   0%|          | 173/669682 [01:05<30:47:19,  6.04it/s][A
+Iteration:   0%|          | 174/669682 [01:06<30:21:28,  6.13it/s][A
+Iteration:   0%|          | 175/669682 [01:06<30:01:25,  6.19it/s][A
+Iteration:   0%|          | 176/669682 [01:06<29:36:16,  6.28it/s][A
+Iteration:   0%|          | 177/669682 [01:06<29:11:43,  6.37it/s][A
+Iteration:   0%|          | 178/669682 [01:06<28:51:24,  6.44it/s][A
+Iteration:   0%|          | 179/669682 [01:06<28:40:25,  6.49it/s][A
+Iteration:   0%|          | 180/669682 [01:06<28:13:59,  6.59it/s][A
+Iteration:   0%|          | 181/669682 [01:06<27:55:05,  6.66it/s][A
+Iteration:   0%|          | 182/669682 [01:06<27:40:27,  6.72it/s][A
+Iteration:   0%|          | 183/669682 [01:07<27:31:28,  6.76it/s][A
+Iteration:   0%|          | 184/669682 [01:07<27:20:28,  6.80it/s][A
+Iteration:   0%|          | 185/669682 [01:07<27:03:45,  6.87it/s][A
+Iteration:   0%|          | 186/669682 [01:07<26:48:15,  6.94it/s][A
+Iteration:   0%|          | 187/669682 [01:07<26:29:40,  7.02it/s][A
+Iteration:   0%|          | 188/669682 [01:07<26:13:45,  7.09it/s][A
+Iteration:   0%|          | 189/669682 [01:07<26:01:01,  7.15it/s][A
+Iteration:   0%|          | 190/669682 [01:07<25:56:31,  7.17it/s][A
+Iteration:   0%|          | 191/669682 [01:08<25:45:10,  7.22it/s][A
+Iteration:   0%|          | 192/669682 [01:08<25:31:48,  7.28it/s][A
+Iteration:   0%|          | 193/669682 [01:08<25:17:12,  7.35it/s][A
+Iteration:   0%|          | 194/669682 [01:08<25:02:43,  7.43it/s][A
+Iteration:   0%|          | 195/669682 [01:08<24:58:55,  7.44it/s][A
+Iteration:   0%|          | 196/669682 [01:08<24:46:49,  7.50it/s][A
+Iteration:   0%|          | 197/669682 [01:08<24:38:26,  7.55it/s][A
+Iteration:   0%|          | 198/669682 [01:08<24:41:58,  7.53it/s][A
+Iteration:   0%|          | 199/669682 [01:09<25:34:39,  7.27it/s][A
+Iteration:   0%|          | 200/669682 [01:50<384:34:37,  2.07s/it][A
+Iteration:   0%|          | 201/669682 [01:50<367:06:42,  1.97s/it][A
+Iteration:   0%|          | 203/669682 [01:50<335:05:03,  1.80s/it][A
+Iteration:   0%|          | 199/669682 [01:08<24:24:57,  7.62it/s][A
+Iteration:   0%|          | 205/669682 [01:50<307:12:10,  1.65s/it][A
+Iteration:   0%|          | 200/669682 [01:46<365:16:04,  1.96s/it][A
+Iteration:   0%|          | 207/669682 [01:50<282:40:53,  1.52s/it][A
+Iteration:   0%|          | 201/669682 [01:46<348:13:29,  1.87s/it][A
+Iteration:   0%|          | 208/669682 [01:50<271:31:17,  1.46s/it][A
+Iteration:   0%|          | 202/669682 [01:46<332:00:36,  1.79s/it][A
+Iteration:   0%|          | 209/669682 [01:50<260:40:43,  1.40s/it][A
+Iteration:   0%|          | 203/669682 [01:46<316:34:20,  1.70s/it][A
+Iteration:   0%|          | 210/669682 [01:51<250:13:04,  1.35s/it][A
+Iteration:   0%|          | 204/669682 [01:46<301:55:00,  1.62s/it][A
+Iteration:   0%|          | 211/669682 [01:51<240:14:38,  1.29s/it][A
+Iteration:   0%|          | 205/669682 [01:46<288:00:29,  1.55s/it][A
+Iteration:   0%|          | 212/669682 [01:51<230:36:28,  1.24s/it][A
+Iteration:   0%|          | 206/669682 [01:46<274:46:52,  1.48s/it][A
+Iteration:   0%|          | 213/669682 [01:51<221:19:57,  1.19s/it][A
+Iteration:   0%|          | 207/669682 [01:47<262:08:57,  1.41s/it][A
+Iteration:   0%|          | 208/669682 [01:47<250:10:01,  1.35s/it][A
+Iteration:   0%|          | 214/669682 [01:51<212:23:59,  1.14s/it][A
+Iteration:   0%|          | 209/669682 [01:47<238:44:13,  1.28s/it][A
+Iteration:   0%|          | 215/669682 [01:51<203:49:13,  1.10s/it][A
+Iteration:   0%|          | 210/669682 [01:47<227:52:33,  1.23s/it][A
+Iteration:   0%|          | 216/669682 [01:51<195:36:49,  1.05s/it][A
+Iteration:   0%|          | 211/669682 [01:47<217:33:13,  1.17s/it][A
+Iteration:   0%|          | 217/669682 [01:51<187:39:19,  1.01s/it][A
+Iteration:   0%|          | 218/669682 [01:51<180:06:10,  1.03it/s][A
+Iteration:   0%|          | 212/669682 [01:47<207:51:26,  1.12s/it][A
+Iteration:   0%|          | 219/669682 [01:52<172:47:15,  1.08it/s][A
+Iteration:   0%|          | 220/669682 [01:52<165:45:38,  1.12it/s][A
+Iteration:   0%|          | 214/669682 [01:47<189:59:20,  1.02s/it][A
+Iteration:   0%|          | 221/669682 [01:52<159:02:58,  1.17it/s][A
+Iteration:   0%|          | 216/669682 [01:48<174:31:23,  1.07it/s][A
+Iteration:   0%|          | 222/669682 [01:52<152:35:12,  1.22it/s][A
+Iteration:   0%|          | 223/669682 [01:52<146:26:08,  1.27it/s][A
+Iteration:   0%|          | 217/669682 [01:48<167:33:05,  1.11it/s][A
+Iteration:   0%|          | 218/669682 [01:48<160:50:37,  1.16it/s][A
+Iteration:   0%|          | 224/669682 [01:52<140:31:37,  1.32it/s][A
+Iteration:   0%|          | 225/669682 [01:52<134:55:48,  1.38it/s][A
+Iteration:   0%|          | 219/669682 [01:48<154:19:08,  1.21it/s][A
+Iteration:   0%|          | 220/669682 [01:48<148:10:06,  1.26it/s][A
+Iteration:   0%|          | 221/669682 [01:48<142:12:34,  1.31it/s][A
+Iteration:   0%|          | 226/669682 [01:52<129:30:51,  1.44it/s][A
+Iteration:   0%|          | 222/669682 [01:48<136:31:03,  1.36it/s][A
+Iteration:   0%|          | 228/669682 [01:52<119:41:17,  1.55it/s][A
+Iteration:   0%|          | 223/669682 [01:48<131:05:05,  1.42it/s][A
+Iteration:   0%|          | 229/669682 [01:53<115:12:54,  1.61it/s][A
+Iteration:   0%|          | 224/669682 [01:48<125:51:44,  1.48it/s][A
+Iteration:   0%|          | 230/669682 [01:53<110:54:41,  1.68it/s][A
+Iteration:   0%|          | 225/669682 [01:48<120:55:53,  1.54it/s][A
+Iteration:   0%|          | 231/669682 [01:53<106:46:12,  1.74it/s][A
+Iteration:   0%|          | 226/669682 [01:49<116:09:21,  1.60it/s][A
+Iteration:   0%|          | 232/669682 [01:53<102:47:34,  1.81it/s][A
+Iteration:   0%|          | 227/669682 [01:49<111:40:45,  1.67it/s][A
+Iteration:   0%|          | 233/669682 [01:53<98:59:14,  1.88it/s] [A
+Iteration:   0%|          | 234/669682 [01:53<95:22:33,  1.95it/s][A
+Iteration:   0%|          | 228/669682 [01:49<107:19:38,  1.73it/s][A
+Iteration:   0%|          | 235/669682 [01:53<91:51:02,  2.02it/s][A
+Iteration:   0%|          | 229/669682 [01:49<103:15:34,  1.80it/s][A
+Iteration:   0%|          | 236/669682 [01:53<88:29:50,  2.10it/s][A
+Iteration:   0%|          | 230/669682 [01:49<99:19:23,  1.87it/s] [A
+Iteration:   0%|          | 231/669682 [01:49<95:32:56,  1.95it/s][A
+Iteration:   0%|          | 237/669682 [01:53<85:23:50,  2.18it/s][A
+Iteration:   0%|          | 232/669682 [01:49<91:58:04,  2.02it/s][A
+Iteration:   0%|          | 238/669682 [01:54<82:25:51,  2.26it/s][A
+Iteration:   0%|          | 233/669682 [01:49<88:31:25,  2.10it/s][A
+Iteration:   0%|          | 239/669682 [01:54<79:30:13,  2.34it/s][A
+Iteration:   0%|          | 240/669682 [01:54<76:41:03,  2.42it/s][A
+Iteration:   0%|          | 234/669682 [01:49<85:11:44,  2.18it/s][A
+Iteration:   0%|          | 241/669682 [01:54<73:59:46,  2.51it/s][A
+Iteration:   0%|          | 235/669682 [01:50<82:08:06,  2.26it/s][A
+Iteration:   0%|          | 236/669682 [01:50<79:07:16,  2.35it/s][A
+Iteration:   0%|          | 242/669682 [01:54<71:22:23,  2.61it/s][A
+Iteration:   0%|          | 237/669682 [01:50<76:14:22,  2.44it/s][A
+Iteration:   0%|          | 238/669682 [01:50<73:32:51,  2.53it/s][A
+Iteration:   0%|          | 243/669682 [01:54<68:59:36,  2.70it/s][A
+Iteration:   0%|          | 239/669682 [01:50<70:54:05,  2.62it/s][A
+Iteration:   0%|          | 245/669682 [01:54<64:33:46,  2.88it/s][A
+Iteration:   0%|          | 240/669682 [01:50<68:25:15,  2.72it/s][A
+Iteration:   0%|          | 246/669682 [01:54<62:32:20,  2.97it/s][A
+Iteration:   0%|          | 241/669682 [01:50<66:03:24,  2.82it/s][A
+Iteration:   0%|          | 247/669682 [01:55<60:35:52,  3.07it/s][A
+Iteration:   0%|          | 242/669682 [01:50<63:48:07,  2.91it/s][A
+Iteration:   0%|          | 248/669682 [01:55<58:41:40,  3.17it/s][A
+Iteration:   0%|          | 243/669682 [01:50<61:41:31,  3.01it/s][A
+Iteration:   0%|          | 249/669682 [01:55<56:54:36,  3.27it/s][A
+Iteration:   0%|          | 244/669682 [01:51<59:57:23,  3.10it/s][A
+Iteration:   0%|          | 250/669682 [01:55<55:25:36,  3.35it/s][A
+Iteration:   0%|          | 251/669682 [01:55<53:49:22,  3.45it/s][A
+Iteration:   0%|          | 245/669682 [01:51<58:00:55,  3.21it/s][A
+Iteration:   0%|          | 246/669682 [01:51<56:14:50,  3.31it/s][A
+Iteration:   0%|          | 252/669682 [01:55<52:14:18,  3.56it/s][A
+Iteration:   0%|          | 247/669682 [01:51<54:27:12,  3.41it/s][A
+Iteration:   0%|          | 253/669682 [01:55<50:49:12,  3.66it/s][A
+Iteration:   0%|          | 254/669682 [01:55<49:22:11,  3.77it/s][A
+Iteration:   0%|          | 248/669682 [01:51<52:45:52,  3.52it/s][A
+Iteration:   0%|          | 255/669682 [01:55<47:57:58,  3.88it/s][A
+Iteration:   0%|          | 249/669682 [01:51<51:13:42,  3.63it/s][A
+Iteration:   0%|          | 250/669682 [01:51<49:41:33,  3.74it/s][A
+Iteration:   0%|          | 256/669682 [01:56<46:35:46,  3.99it/s][A
+Iteration:   0%|          | 251/669682 [01:51<48:12:03,  3.86it/s][A
+Iteration:   0%|          | 257/669682 [01:56<45:24:58,  4.09it/s][A
+Iteration:   0%|          | 252/669682 [01:51<46:45:59,  3.98it/s][A
+Iteration:   0%|          | 258/669682 [01:56<44:12:08,  4.21it/s][A
+Iteration:   0%|          | 253/669682 [01:52<45:25:30,  4.09it/s][A
+Iteration:   0%|          | 259/669682 [01:56<43:00:19,  4.32it/s][A
+Iteration:   0%|          | 254/669682 [01:52<44:11:01,  4.21it/s][A
+Iteration:   0%|          | 260/669682 [01:56<41:52:09,  4.44it/s][A
+Iteration:   0%|          | 255/669682 [01:52<43:02:20,  4.32it/s][A
+Iteration:   0%|          | 261/669682 [01:56<40:52:07,  4.55it/s][A
+Iteration:   0%|          | 256/669682 [01:52<42:00:44,  4.43it/s][A
+Iteration:   0%|          | 262/669682 [01:56<40:00:06,  4.65it/s][A
+Iteration:   0%|          | 257/669682 [01:52<40:54:24,  4.55it/s][A
+Iteration:   0%|          | 263/669682 [01:56<39:03:42,  4.76it/s][A
+Iteration:   0%|          | 258/669682 [01:52<39:54:05,  4.66it/s][A
+Iteration:   0%|          | 264/669682 [01:56<38:09:02,  4.87it/s][A
+Iteration:   0%|          | 259/669682 [01:52<38:52:28,  4.78it/s][A
+Iteration:   0%|          | 265/669682 [01:57<37:15:10,  4.99it/s][A
+Iteration:   0%|          | 260/669682 [01:52<37:58:37,  4.90it/s][A
+Iteration:   0%|          | 266/669682 [01:57<36:24:42,  5.11it/s][A
+Iteration:   0%|          | 261/669682 [01:52<37:07:28,  5.01it/s][A
+Iteration:   0%|          | 267/669682 [01:57<35:37:39,  5.22it/s][A
+Iteration:   0%|          | 268/669682 [01:57<34:52:48,  5.33it/s][A
+Iteration:   0%|          | 262/669682 [01:53<36:15:25,  5.13it/s][A
+Iteration:   0%|          | 269/669682 [01:57<34:07:38,  5.45it/s][A
+Iteration:   0%|          | 263/669682 [01:53<35:31:11,  5.24it/s][A
+Iteration:   0%|          | 270/669682 [01:57<33:23:45,  5.57it/s][A
+Iteration:   0%|          | 264/669682 [01:53<34:43:35,  5.35it/s][A
+Iteration:   0%|          | 271/669682 [01:57<32:42:03,  5.69it/s][A
+Iteration:   0%|          | 265/669682 [01:53<33:58:27,  5.47it/s][A
+Iteration:   0%|          | 272/669682 [01:57<32:04:43,  5.80it/s][A
+Iteration:   0%|          | 266/669682 [01:53<33:16:44,  5.59it/s][A
+Iteration:   0%|          | 273/669682 [01:57<31:29:01,  5.91it/s][A
+Iteration:   0%|          | 267/669682 [01:53<32:36:55,  5.70it/s][A
+Iteration:   0%|          | 274/669682 [01:57<30:54:13,  6.02it/s][A
+Iteration:   0%|          | 268/669682 [01:53<31:59:29,  5.81it/s][A
+Iteration:   0%|          | 275/669682 [01:58<30:21:39,  6.12it/s][A
+Iteration:   0%|          | 269/669682 [01:53<31:21:52,  5.93it/s][A
+Iteration:   0%|          | 276/669682 [01:58<29:54:03,  6.22it/s][A
+Iteration:   0%|          | 270/669682 [01:53<30:49:39,  6.03it/s][A
+Iteration:   0%|          | 277/669682 [01:58<29:24:18,  6.32it/s][A
+Iteration:   0%|          | 271/669682 [01:53<30:15:31,  6.15it/s][A
+Iteration:   0%|          | 272/669682 [01:54<29:43:15,  6.26it/s][A
+Iteration:   0%|          | 278/669682 [01:58<28:52:28,  6.44it/s][A
+Iteration:   0%|          | 273/669682 [01:54<29:11:51,  6.37it/s][A
+Iteration:   0%|          | 279/669682 [01:58<28:30:28,  6.52it/s][A
+Iteration:   0%|          | 274/669682 [01:54<28:44:25,  6.47it/s][A
+Iteration:   0%|          | 281/669682 [01:58<27:36:48,  6.73it/s][A
+Iteration:   0%|          | 275/669682 [01:54<28:17:28,  6.57it/s][A
+Iteration:   0%|          | 282/669682 [01:58<27:18:25,  6.81it/s][A
+Iteration:   0%|          | 276/669682 [01:54<27:53:38,  6.67it/s][A
+Iteration:   0%|          | 277/669682 [01:54<27:30:46,  6.76it/s][A
+Iteration:   0%|          | 283/669682 [01:58<26:58:59,  6.89it/s][A
+Iteration:   0%|          | 278/669682 [01:54<27:10:37,  6.84it/s][A
+Iteration:   0%|          | 284/669682 [01:59<26:43:41,  6.96it/s][A
+Iteration:   0%|          | 285/669682 [01:59<26:27:29,  7.03it/s][A
+Iteration:   0%|          | 279/669682 [01:54<26:49:21,  6.93it/s][A
+Iteration:   0%|          | 280/669682 [01:54<26:32:54,  7.00it/s][A
+Iteration:   0%|          | 286/669682 [01:59<26:07:32,  7.12it/s][A
+Iteration:   0%|          | 287/669682 [01:59<25:51:08,  7.19it/s][A
+Iteration:   0%|          | 281/669682 [01:55<26:11:54,  7.10it/s][A
+Iteration:   0%|          | 282/669682 [01:55<25:57:54,  7.16it/s][A
+Iteration:   0%|          | 288/669682 [01:59<25:36:16,  7.26it/s][A
+Iteration:   0%|          | 283/669682 [01:55<25:38:23,  7.25it/s][A
+Iteration:   0%|          | 289/669682 [01:59<25:22:33,  7.33it/s][A
+Iteration:   0%|          | 284/669682 [01:55<25:21:46,  7.33it/s][A
+Iteration:   0%|          | 290/669682 [01:59<25:08:34,  7.40it/s][A
+Iteration:   0%|          | 285/669682 [01:55<25:06:37,  7.41it/s][A
+Iteration:   0%|          | 291/669682 [01:59<24:53:20,  7.47it/s][A
+Iteration:   0%|          | 286/669682 [01:55<24:49:41,  7.49it/s][A
+Iteration:   0%|          | 292/669682 [01:59<24:37:34,  7.55it/s][A
+Iteration:   0%|          | 287/669682 [01:55<24:34:12,  7.57it/s][A
+Iteration:   0%|          | 293/669682 [02:00<24:24:27,  7.62it/s][A
+Iteration:   0%|          | 288/669682 [01:55<24:22:18,  7.63it/s][A
+Iteration:   0%|          | 294/669682 [02:00<24:10:31,  7.69it/s][A
+Iteration:   0%|          | 289/669682 [01:55<24:06:46,  7.71it/s][A
+Iteration:   0%|          | 295/669682 [02:00<23:57:36,  7.76it/s][A
+Iteration:   0%|          | 290/669682 [01:56<23:55:11,  7.77it/s][A
+Iteration:   0%|          | 296/669682 [02:00<23:48:01,  7.81it/s][A
+Iteration:   0%|          | 291/669682 [01:56<23:42:56,  7.84it/s][A
+Iteration:   0%|          | 297/669682 [02:00<23:36:30,  7.88it/s][A
+Iteration:   0%|          | 298/669682 [02:00<23:25:39,  7.94it/s][A
+Iteration:   0%|          | 292/669682 [01:56<23:34:30,  7.89it/s][A
+Iteration:   0%|          | 293/669682 [01:56<23:25:25,  7.94it/s][A
+Iteration:   0%|          | 295/669682 [01:56<22:58:26,  8.09it/s][A
+Iteration:   0%|          | 297/669682 [01:56<22:28:05,  8.28it/s][A
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 143112 ON JX-ZY-GPU03 CANCELLED AT 2022-07-12T11:41:51 ***
+slurmstepd: error: *** STEP 143112.0 ON JX-ZY-GPU03 CANCELLED AT 2022-07-12T11:41:51 ***

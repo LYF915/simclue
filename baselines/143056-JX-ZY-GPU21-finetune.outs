@@ -1,0 +1,518 @@
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+No sentence-transformers model found with name /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese. Creating a new one with MEAN pooling.
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at /nfs/users/luoyifei/.cache/torch/sentence_transformers/bert-base-chinese were not used when initializing BertModel: ['cls.predictions.transform.LayerNorm.weight', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.seq_relationship.weight', 'cls.predictions.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.dense.bias']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Epoch:   0%|          | 0/3 [00:00<?, ?it/s]
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 1/669682 [00:01<217:34:30,  1.17s/it][A
+Iteration:   0%|          | 2/669682 [00:01<117:04:55,  1.59it/s][A
+Iteration:   0%|          | 4/669682 [00:01<64:36:41,  2.88it/s] [A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 6/669682 [00:01<48:49:31,  3.81it/s][A
+Iteration:   0%|          | 1/669682 [00:01<223:48:16,  1.20s/it][A
+Iteration:   0%|          | 1/669682 [00:01<227:44:07,  1.22s/it][A
+Iteration:   0%|          | 0/669682 [00:00<?, ?it/s][A
+Iteration:   0%|          | 2/669682 [00:01<124:43:59,  1.49it/s][A
+Iteration:   0%|          | 7/669682 [00:01<45:07:40,  4.12it/s][A
+Iteration:   0%|          | 2/669682 [00:01<127:31:22,  1.46it/s][A
+Iteration:   0%|          | 1/669682 [00:01<253:46:55,  1.36s/it][A
+Iteration:   0%|          | 8/669682 [00:02<44:18:39,  4.20it/s][A
+Iteration:   0%|          | 3/669682 [00:01<90:52:05,  2.05it/s] [A
+Iteration:   0%|          | 3/669682 [00:01<93:14:12,  2.00it/s] [A
+Iteration:   0%|          | 2/669682 [00:01<139:50:08,  1.33it/s][A
+Iteration:   0%|          | 4/669682 [00:01<77:17:30,  2.41it/s][A
+Iteration:   0%|          | 4/669682 [00:01<76:33:48,  2.43it/s][A
+Iteration:   0%|          | 3/669682 [00:01<100:46:19,  1.85it/s][A
+Iteration:   0%|          | 9/669682 [00:02<43:03:31,  4.32it/s][A
+Iteration:   0%|          | 10/669682 [00:02<42:06:15,  4.42it/s][A
+Iteration:   0%|          | 4/669682 [00:01<81:58:09,  2.27it/s] [A
+Iteration:   0%|          | 5/669682 [00:01<67:36:49,  2.75it/s][A
+Iteration:   0%|          | 5/669682 [00:01<66:30:45,  2.80it/s][A
+Iteration:   0%|          | 11/669682 [00:02<40:36:24,  4.58it/s][A
+Iteration:   0%|          | 6/669682 [00:02<60:54:13,  3.05it/s][A
+Iteration:   0%|          | 5/669682 [00:02<70:30:05,  2.64it/s][A
+Iteration:   0%|          | 6/669682 [00:02<60:20:33,  3.08it/s][A
+Iteration:   0%|          | 7/669682 [00:02<55:47:06,  3.33it/s][A
+Iteration:   0%|          | 7/669682 [00:02<56:09:25,  3.31it/s][A
+Iteration:   0%|          | 12/669682 [00:02<39:53:42,  4.66it/s][A
+Iteration:   0%|          | 6/669682 [00:02<63:38:24,  2.92it/s][A
+Iteration:   0%|          | 7/669682 [00:02<58:37:55,  3.17it/s][A
+Iteration:   0%|          | 8/669682 [00:02<51:28:29,  3.61it/s][A
+Iteration:   0%|          | 8/669682 [00:02<52:38:54,  3.53it/s][A
+Iteration:   0%|          | 13/669682 [00:02<39:17:11,  4.73it/s][A
+Iteration:   0%|          | 8/669682 [00:02<54:59:09,  3.38it/s][A
+Iteration:   0%|          | 9/669682 [00:02<50:45:42,  3.66it/s][A
+Iteration:   0%|          | 9/669682 [00:02<51:29:33,  3.61it/s][A
+Iteration:   0%|          | 14/669682 [00:03<40:00:07,  4.65it/s][A
+Iteration:   0%|          | 10/669682 [00:02<49:25:19,  3.76it/s][A
+Iteration:   0%|          | 9/669682 [00:02<52:38:38,  3.53it/s][A
+Iteration:   0%|          | 15/669682 [00:03<39:21:19,  4.73it/s][A
+Iteration:   0%|          | 10/669682 [00:02<48:20:37,  3.85it/s][A
+Iteration:   0%|          | 16/669682 [00:03<38:37:41,  4.82it/s][A
+Iteration:   0%|          | 11/669682 [00:03<47:16:15,  3.94it/s][A
+Iteration:   0%|          | 10/669682 [00:02<50:42:52,  3.67it/s][A
+Iteration:   0%|          | 11/669682 [00:03<47:19:31,  3.93it/s][A
+Iteration:   0%|          | 17/669682 [00:03<38:09:44,  4.87it/s][A
+Iteration:   0%|          | 12/669682 [00:03<45:34:56,  4.08it/s][A
+Iteration:   0%|          | 12/669682 [00:03<46:08:32,  4.03it/s][A
+Iteration:   0%|          | 11/669682 [00:03<48:56:07,  3.80it/s][A
+Iteration:   0%|          | 13/669682 [00:03<44:15:08,  4.20it/s][A
+Iteration:   0%|          | 18/669682 [00:03<37:42:36,  4.93it/s][A
+Iteration:   0%|          | 13/669682 [00:03<44:45:01,  4.16it/s][A
+Iteration:   0%|          | 12/669682 [00:03<47:25:33,  3.92it/s][A
+Iteration:   0%|          | 19/669682 [00:04<37:12:13,  5.00it/s][A
+Iteration:   0%|          | 14/669682 [00:03<43:23:24,  4.29it/s][A
+Iteration:   0%|          | 13/669682 [00:03<45:44:03,  4.07it/s][A
+Iteration:   0%|          | 14/669682 [00:03<42:39:39,  4.36it/s][A
+Iteration:   0%|          | 15/669682 [00:03<42:28:34,  4.38it/s][A
+Iteration:   0%|          | 15/669682 [00:03<42:21:20,  4.39it/s][A
+Iteration:   0%|          | 20/669682 [00:04<36:53:25,  5.04it/s][A
+Iteration:   0%|          | 14/669682 [00:03<44:23:54,  4.19it/s][A
+Iteration:   0%|          | 21/669682 [00:04<36:44:04,  5.06it/s][A
+Iteration:   0%|          | 15/669682 [00:03<43:24:24,  4.29it/s][A
+Iteration:   0%|          | 16/669682 [00:03<41:29:46,  4.48it/s][A
+Iteration:   0%|          | 16/669682 [00:03<41:16:38,  4.51it/s][A
+Iteration:   0%|          | 17/669682 [00:04<40:59:44,  4.54it/s][A
+Iteration:   0%|          | 16/669682 [00:04<42:20:39,  4.39it/s][A
+Iteration:   0%|          | 22/669682 [00:04<36:13:53,  5.13it/s][A
+Iteration:   0%|          | 17/669682 [00:04<40:52:32,  4.55it/s][A
+Iteration:   0%|          | 18/669682 [00:04<40:07:35,  4.64it/s][A
+Iteration:   0%|          | 23/669682 [00:04<36:18:13,  5.12it/s][A
+Iteration:   0%|          | 17/669682 [00:04<41:24:26,  4.49it/s][A
+Iteration:   0%|          | 18/669682 [00:04<39:59:45,  4.65it/s][A
+Iteration:   0%|          | 19/669682 [00:04<39:14:47,  4.74it/s][A
+Iteration:   0%|          | 18/669682 [00:04<40:50:44,  4.55it/s][A
+Iteration:   0%|          | 24/669682 [00:04<35:53:41,  5.18it/s][A
+Iteration:   0%|          | 19/669682 [00:04<39:46:24,  4.68it/s][A
+Iteration:   0%|          | 25/669682 [00:05<35:37:16,  5.22it/s][A
+Iteration:   0%|          | 20/669682 [00:04<38:32:09,  4.83it/s][A
+Iteration:   0%|          | 20/669682 [00:04<39:03:08,  4.76it/s][A
+Iteration:   0%|          | 19/669682 [00:04<39:51:32,  4.67it/s][A
+Iteration:   0%|          | 21/669682 [00:04<38:13:18,  4.87it/s][A
+Iteration:   0%|          | 26/669682 [00:05<35:18:45,  5.27it/s][A
+Iteration:   0%|          | 21/669682 [00:04<38:34:24,  4.82it/s][A
+Iteration:   0%|          | 20/669682 [00:04<39:41:31,  4.69it/s][A
+Iteration:   0%|          | 21/669682 [00:04<39:06:15,  4.76it/s][A
+Iteration:   0%|          | 27/669682 [00:05<35:12:42,  5.28it/s][A
+Iteration:   0%|          | 22/669682 [00:04<38:03:08,  4.89it/s][A
+Iteration:   0%|          | 22/669682 [00:04<37:48:57,  4.92it/s][A
+Iteration:   0%|          | 28/669682 [00:05<34:53:16,  5.33it/s][A
+Iteration:   0%|          | 22/669682 [00:05<38:13:12,  4.87it/s][A
+Iteration:   0%|          | 23/669682 [00:05<37:36:57,  4.95it/s][A
+Iteration:   0%|          | 23/669682 [00:05<37:31:24,  4.96it/s][A
+Iteration:   0%|          | 23/669682 [00:05<37:53:34,  4.91it/s][A
+Iteration:   0%|          | 29/669682 [00:05<34:36:15,  5.38it/s][A
+Iteration:   0%|          | 24/669682 [00:05<37:08:49,  5.01it/s][A
+Iteration:   0%|          | 24/669682 [00:05<37:14:40,  4.99it/s][A
+Iteration:   0%|          | 30/669682 [00:05<34:35:06,  5.38it/s][A
+Iteration:   0%|          | 25/669682 [00:05<36:51:32,  5.05it/s][A
+Iteration:   0%|          | 25/669682 [00:05<36:59:49,  5.03it/s][A
+Iteration:   0%|          | 24/669682 [00:05<37:16:50,  4.99it/s][A
+Iteration:   0%|          | 26/669682 [00:05<36:43:40,  5.06it/s][A
+Iteration:   0%|          | 26/669682 [00:05<36:28:47,  5.10it/s][A
+Iteration:   0%|          | 31/669682 [00:06<34:33:16,  5.38it/s][A
+Iteration:   0%|          | 25/669682 [00:05<37:33:39,  4.95it/s][A
+Iteration:   0%|          | 27/669682 [00:05<36:16:49,  5.13it/s][A
+Iteration:   0%|          | 27/669682 [00:05<36:13:36,  5.13it/s][A
+Iteration:   0%|          | 32/669682 [00:06<34:40:02,  5.37it/s][A
+Iteration:   0%|          | 26/669682 [00:05<37:15:57,  4.99it/s][A
+Iteration:   0%|          | 28/669682 [00:05<35:52:40,  5.18it/s][A
+Iteration:   0%|          | 33/669682 [00:06<34:25:23,  5.40it/s][A
+Iteration:   0%|          | 28/669682 [00:06<36:02:45,  5.16it/s][A
+Iteration:   0%|          | 27/669682 [00:05<36:45:27,  5.06it/s][A
+Iteration:   0%|          | 29/669682 [00:06<35:31:39,  5.24it/s][A
+Iteration:   0%|          | 29/669682 [00:06<35:41:19,  5.21it/s][A
+Iteration:   0%|          | 34/669682 [00:06<34:05:13,  5.46it/s][A
+Iteration:   0%|          | 28/669682 [00:06<36:26:32,  5.10it/s][A
+Iteration:   0%|          | 30/669682 [00:06<35:24:39,  5.25it/s][A
+Iteration:   0%|          | 30/669682 [00:06<35:32:33,  5.23it/s][A
+Iteration:   0%|          | 29/669682 [00:06<36:22:43,  5.11it/s][A
+Iteration:   0%|          | 35/669682 [00:06<34:19:10,  5.42it/s][A
+Iteration:   0%|          | 30/669682 [00:06<36:01:41,  5.16it/s][A
+Iteration:   0%|          | 31/669682 [00:06<35:28:29,  5.24it/s][A
+Iteration:   0%|          | 31/669682 [00:06<35:20:02,  5.26it/s][A
+Iteration:   0%|          | 36/669682 [00:07<34:17:14,  5.43it/s][A
+Iteration:   0%|          | 31/669682 [00:06<35:35:04,  5.23it/s][A
+Iteration:   0%|          | 37/669682 [00:07<34:09:31,  5.45it/s][A
+Iteration:   0%|          | 32/669682 [00:06<35:19:14,  5.27it/s][A
+Iteration:   0%|          | 32/669682 [00:06<35:15:11,  5.28it/s][A
+Iteration:   0%|          | 38/669682 [00:07<33:48:53,  5.50it/s][A
+Iteration:   0%|          | 33/669682 [00:06<35:07:20,  5.30it/s][A
+Iteration:   0%|          | 32/669682 [00:06<35:17:14,  5.27it/s][A
+Iteration:   0%|          | 33/669682 [00:06<35:15:55,  5.27it/s][A
+Iteration:   0%|          | 34/669682 [00:07<34:53:45,  5.33it/s][A
+Iteration:   0%|          | 39/669682 [00:07<33:44:22,  5.51it/s][A
+Iteration:   0%|          | 33/669682 [00:07<35:22:57,  5.26it/s][A
+Iteration:   0%|          | 34/669682 [00:07<35:10:26,  5.29it/s][A
+Iteration:   0%|          | 40/669682 [00:07<33:51:14,  5.49it/s][A
+Iteration:   0%|          | 35/669682 [00:07<35:06:07,  5.30it/s][A
+Iteration:   0%|          | 34/669682 [00:07<35:19:38,  5.27it/s][A
+Iteration:   0%|          | 35/669682 [00:07<34:44:30,  5.35it/s][A
+Iteration:   0%|          | 36/669682 [00:07<34:39:13,  5.37it/s][A
+Iteration:   0%|          | 41/669682 [00:07<33:32:53,  5.54it/s][A
+Iteration:   0%|          | 36/669682 [00:07<34:44:23,  5.35it/s][A
+Iteration:   0%|          | 35/669682 [00:07<35:01:44,  5.31it/s][A
+Iteration:   0%|          | 37/669682 [00:07<34:28:01,  5.40it/s][A
+Iteration:   0%|          | 36/669682 [00:07<34:49:08,  5.34it/s][A
+Iteration:   0%|          | 42/669682 [00:08<33:28:09,  5.56it/s][A
+Iteration:   0%|          | 37/669682 [00:07<34:13:01,  5.44it/s][A
+Iteration:   0%|          | 43/669682 [00:08<33:32:09,  5.55it/s][A
+Iteration:   0%|          | 38/669682 [00:07<34:10:42,  5.44it/s][A
+Iteration:   0%|          | 38/669682 [00:07<34:28:31,  5.40it/s][A
+Iteration:   0%|          | 37/669682 [00:07<34:36:50,  5.37it/s][A
+Iteration:   0%|          | 39/669682 [00:07<34:09:20,  5.45it/s][A
+Iteration:   0%|          | 39/669682 [00:07<34:13:09,  5.44it/s][A
+Iteration:   0%|          | 44/669682 [00:08<33:13:07,  5.60it/s][A
+Iteration:   0%|          | 38/669682 [00:07<34:34:25,  5.38it/s][A
+Iteration:   0%|          | 40/669682 [00:08<33:47:16,  5.51it/s][A
+Iteration:   0%|          | 45/669682 [00:08<33:19:57,  5.58it/s][A
+Iteration:   0%|          | 39/669682 [00:08<34:25:29,  5.40it/s][A
+Iteration:   0%|          | 40/669682 [00:08<34:02:30,  5.46it/s][A
+Iteration:   0%|          | 46/669682 [00:08<33:13:58,  5.60it/s][A
+Iteration:   0%|          | 41/669682 [00:08<33:54:17,  5.49it/s][A
+Iteration:   0%|          | 41/669682 [00:08<34:09:51,  5.44it/s][A
+Iteration:   0%|          | 40/669682 [00:08<34:14:15,  5.43it/s][A
+Iteration:   0%|          | 42/669682 [00:08<33:54:38,  5.49it/s][A
+Iteration:   0%|          | 47/669682 [00:08<33:04:19,  5.62it/s][A
+Iteration:   0%|          | 42/669682 [00:08<33:52:23,  5.49it/s][A
+Iteration:   0%|          | 41/669682 [00:08<34:09:59,  5.44it/s][A
+Iteration:   0%|          | 48/669682 [00:09<33:07:27,  5.62it/s][A
+Iteration:   0%|          | 43/669682 [00:08<33:40:07,  5.52it/s][A
+Iteration:   0%|          | 43/669682 [00:08<33:52:07,  5.49it/s][A
+Iteration:   0%|          | 42/669682 [00:08<34:04:33,  5.46it/s][A
+Iteration:   0%|          | 49/669682 [00:09<33:08:05,  5.61it/s][A
+Iteration:   0%|          | 44/669682 [00:08<33:51:28,  5.49it/s][A
+Iteration:   0%|          | 43/669682 [00:08<34:03:10,  5.46it/s][A
+Iteration:   0%|          | 44/669682 [00:08<33:49:56,  5.50it/s][A
+Iteration:   0%|          | 45/669682 [00:08<33:35:46,  5.54it/s][A
+Iteration:   0%|          | 45/669682 [00:08<33:44:11,  5.51it/s][A
+Iteration:   0%|          | 50/669682 [00:09<33:00:32,  5.64it/s][A
+Iteration:   0%|          | 44/669682 [00:08<33:46:49,  5.51it/s][A
+Iteration:   0%|          | 51/669682 [00:09<33:00:57,  5.63it/s][A
+Iteration:   0%|          | 46/669682 [00:09<33:27:00,  5.56it/s][A
+Iteration:   0%|          | 46/669682 [00:09<33:23:23,  5.57it/s][A
+Iteration:   0%|          | 45/669682 [00:09<33:43:17,  5.52it/s][A
+Iteration:   0%|          | 52/669682 [00:09<32:47:23,  5.67it/s][A
+Iteration:   0%|          | 47/669682 [00:09<33:24:24,  5.57it/s][A
+Iteration:   0%|          | 47/669682 [00:09<33:22:25,  5.57it/s][A
+Iteration:   0%|          | 46/669682 [00:09<33:37:58,  5.53it/s][A
+Iteration:   0%|          | 48/669682 [00:09<33:25:51,  5.56it/s][A
+Iteration:   0%|          | 47/669682 [00:09<33:38:10,  5.53it/s][A
+Iteration:   0%|          | 48/669682 [00:09<33:24:34,  5.57it/s][A
+Iteration:   0%|          | 53/669682 [00:09<32:54:43,  5.65it/s][A
+Iteration:   0%|          | 48/669682 [00:09<33:23:59,  5.57it/s][A
+Iteration:   0%|          | 49/669682 [00:09<33:16:17,  5.59it/s][A
+Iteration:   0%|          | 49/669682 [00:09<33:23:36,  5.57it/s][A
+Iteration:   0%|          | 54/669682 [00:10<33:12:27,  5.60it/s][A
+Iteration:   0%|          | 55/669682 [00:10<33:04:51,  5.62it/s][A
+Iteration:   0%|          | 50/669682 [00:09<33:14:39,  5.60it/s][A
+Iteration:   0%|          | 50/669682 [00:09<33:25:02,  5.57it/s][A
+Iteration:   0%|          | 49/669682 [00:09<33:18:30,  5.58it/s][A
+Iteration:   0%|          | 51/669682 [00:10<33:23:35,  5.57it/s][A
+Iteration:   0%|          | 51/669682 [00:10<33:22:31,  5.57it/s][A
+Iteration:   0%|          | 50/669682 [00:09<33:37:20,  5.53it/s][A
+Iteration:   0%|          | 56/669682 [00:10<32:52:03,  5.66it/s][A
+Iteration:   0%|          | 52/669682 [00:10<33:25:14,  5.57it/s][A
+Iteration:   0%|          | 52/669682 [00:10<33:22:43,  5.57it/s][A
+Iteration:   0%|          | 51/669682 [00:10<33:36:23,  5.53it/s][A
+Iteration:   0%|          | 57/669682 [00:10<33:08:19,  5.61it/s][A
+Iteration:   0%|          | 58/669682 [00:10<33:03:48,  5.63it/s][A
+Iteration:   0%|          | 53/669682 [00:10<33:12:09,  5.60it/s][A
+Iteration:   0%|          | 53/669682 [00:10<33:18:43,  5.58it/s][A
+Iteration:   0%|          | 52/669682 [00:10<33:29:50,  5.55it/s][A
+Iteration:   0%|          | 54/669682 [00:10<33:06:56,  5.62it/s][A
+Iteration:   0%|          | 59/669682 [00:11<32:44:36,  5.68it/s][A
+Iteration:   0%|          | 53/669682 [00:10<33:24:33,  5.57it/s][A
+Iteration:   0%|          | 54/669682 [00:10<33:15:42,  5.59it/s][A
+Iteration:   0%|          | 55/669682 [00:10<33:21:16,  5.58it/s][A
+Iteration:   0%|          | 60/669682 [00:11<32:55:42,  5.65it/s][A
+Iteration:   0%|          | 55/669682 [00:10<33:11:43,  5.60it/s][A
+Iteration:   0%|          | 54/669682 [00:10<33:24:47,  5.57it/s][A
+Iteration:   0%|          | 56/669682 [00:10<33:16:16,  5.59it/s][A
+Iteration:   0%|          | 55/669682 [00:10<33:21:00,  5.58it/s][A
+Iteration:   0%|          | 61/669682 [00:11<32:48:03,  5.67it/s][A
+Iteration:   0%|          | 56/669682 [00:10<33:02:53,  5.63it/s][A
+Iteration:   0%|          | 62/669682 [00:11<32:56:36,  5.65it/s][A
+Iteration:   0%|          | 56/669682 [00:11<33:10:27,  5.61it/s][A
+Iteration:   0%|          | 57/669682 [00:11<33:05:03,  5.62it/s][A
+Iteration:   0%|          | 57/669682 [00:11<33:20:51,  5.58it/s][A
+Iteration:   0%|          | 58/669682 [00:11<33:12:53,  5.60it/s][A
+Iteration:   0%|          | 57/669682 [00:11<33:13:26,  5.60it/s][A
+Iteration:   0%|          | 58/669682 [00:11<33:17:56,  5.59it/s][A
+Iteration:   0%|          | 63/669682 [00:11<32:45:20,  5.68it/s][A
+Iteration:   0%|          | 58/669682 [00:11<33:10:55,  5.61it/s][A
+Iteration:   0%|          | 59/669682 [00:11<33:09:45,  5.61it/s][A
+Iteration:   0%|          | 59/669682 [00:11<33:01:07,  5.63it/s][A
+Iteration:   0%|          | 64/669682 [00:11<32:59:12,  5.64it/s][A
+Iteration:   0%|          | 59/669682 [00:11<32:55:24,  5.65it/s][A
+Iteration:   0%|          | 65/669682 [00:12<32:56:38,  5.65it/s][A
+Iteration:   0%|          | 60/669682 [00:11<33:04:43,  5.62it/s][A
+Iteration:   0%|          | 60/669682 [00:11<33:09:35,  5.61it/s][A
+Iteration:   0%|          | 66/669682 [00:12<32:51:05,  5.66it/s][A
+Iteration:   0%|          | 60/669682 [00:11<32:58:21,  5.64it/s][A
+Iteration:   0%|          | 61/669682 [00:11<33:18:34,  5.58it/s][A
+Iteration:   0%|          | 61/669682 [00:11<33:06:28,  5.62it/s][A
+Iteration:   0%|          | 62/669682 [00:11<33:13:32,  5.60it/s][A
+Iteration:   0%|          | 61/669682 [00:11<33:04:06,  5.62it/s][A
+Iteration:   0%|          | 67/669682 [00:12<32:45:26,  5.68it/s][A
+Iteration:   0%|          | 62/669682 [00:11<33:15:56,  5.59it/s][A
+Iteration:   0%|          | 68/669682 [00:12<32:57:40,  5.64it/s][A
+Iteration:   0%|          | 62/669682 [00:12<33:11:44,  5.60it/s][A
+Iteration:   0%|          | 63/669682 [00:12<32:56:38,  5.65it/s][A
+Iteration:   0%|          | 63/669682 [00:12<33:08:22,  5.61it/s][A
+Iteration:   0%|          | 63/669682 [00:12<33:08:08,  5.61it/s][A
+Iteration:   0%|          | 64/669682 [00:12<33:08:35,  5.61it/s][A
+Iteration:   0%|          | 69/669682 [00:12<32:49:21,  5.67it/s][A
+Iteration:   0%|          | 64/669682 [00:12<33:07:37,  5.61it/s][A
+Iteration:   0%|          | 70/669682 [00:12<32:56:26,  5.65it/s][A
+Iteration:   0%|          | 65/669682 [00:12<33:03:25,  5.63it/s][A
+Iteration:   0%|          | 64/669682 [00:12<33:03:36,  5.63it/s][A
+Iteration:   0%|          | 65/669682 [00:12<33:07:44,  5.61it/s][A
+Iteration:   0%|          | 66/669682 [00:12<33:06:24,  5.62it/s][A
+Iteration:   0%|          | 65/669682 [00:12<33:10:53,  5.61it/s][A
+Iteration:   0%|          | 71/669682 [00:13<32:54:15,  5.65it/s][A
+Iteration:   0%|          | 66/669682 [00:12<33:18:03,  5.59it/s][A
+Iteration:   0%|          | 67/669682 [00:12<33:03:35,  5.63it/s][A
+Iteration:   0%|          | 72/669682 [00:13<32:57:27,  5.64it/s][A
+Iteration:   0%|          | 66/669682 [00:12<33:09:04,  5.61it/s][A
+Iteration:   0%|          | 67/669682 [00:12<33:12:49,  5.60it/s][A
+Iteration:   0%|          | 73/669682 [00:13<32:52:15,  5.66it/s][A
+Iteration:   0%|          | 67/669682 [00:12<33:06:02,  5.62it/s][A
+Iteration:   0%|          | 68/669682 [00:13<33:07:57,  5.61it/s][A
+Iteration:   0%|          | 68/669682 [00:13<32:57:51,  5.64it/s][A
+Iteration:   0%|          | 69/669682 [00:13<33:02:24,  5.63it/s][A
+Iteration:   0%|          | 68/669682 [00:13<32:57:34,  5.64it/s][A
+Iteration:   0%|          | 69/669682 [00:13<33:11:08,  5.60it/s][A
+Iteration:   0%|          | 74/669682 [00:13<32:42:19,  5.69it/s][A
+Iteration:   0%|          | 70/669682 [00:13<33:17:52,  5.59it/s][A
+Iteration:   0%|          | 70/669682 [00:13<33:10:19,  5.61it/s][A
+Iteration:   0%|          | 75/669682 [00:13<33:18:43,  5.58it/s][A
+Iteration:   0%|          | 69/669682 [00:13<33:17:54,  5.59it/s][A
+Iteration:   0%|          | 71/669682 [00:13<33:17:19,  5.59it/s][A
+Iteration:   0%|          | 76/669682 [00:14<33:18:05,  5.59it/s][A
+Iteration:   0%|          | 71/669682 [00:13<33:16:30,  5.59it/s][A
+Iteration:   0%|          | 70/669682 [00:13<33:30:54,  5.55it/s][A
+Iteration:   0%|          | 72/669682 [00:13<33:16:02,  5.59it/s][A
+Iteration:   0%|          | 72/669682 [00:13<33:09:10,  5.61it/s][A
+Iteration:   0%|          | 71/669682 [00:13<33:28:38,  5.56it/s][A
+Iteration:   0%|          | 77/669682 [00:14<33:06:46,  5.62it/s][A
+Iteration:   0%|          | 73/669682 [00:13<33:13:02,  5.60it/s][A
+Iteration:   0%|          | 72/669682 [00:13<33:22:38,  5.57it/s][A
+Iteration:   0%|          | 73/669682 [00:13<33:14:37,  5.60it/s][A
+Iteration:   0%|          | 78/669682 [00:14<33:18:05,  5.59it/s][A
+Iteration:   0%|          | 74/669682 [00:14<33:13:50,  5.60it/s][A
+Iteration:   0%|          | 74/669682 [00:14<33:29:10,  5.55it/s][A
+Iteration:   0%|          | 73/669682 [00:14<33:23:36,  5.57it/s][A
+Iteration:   0%|          | 74/669682 [00:14<33:17:50,  5.59it/s][A
+Iteration:   0%|          | 75/669682 [00:14<33:12:10,  5.60it/s][A
+Iteration:   0%|          | 79/669682 [00:14<34:19:54,  5.42it/s][A
+Iteration:   0%|          | 75/669682 [00:14<33:15:18,  5.59it/s][A
+Iteration:   0%|          | 76/669682 [00:14<33:07:13,  5.62it/s][A
+Iteration:   0%|          | 76/669682 [00:14<33:12:48,  5.60it/s][A
+Iteration:   0%|          | 80/669682 [00:14<34:42:09,  5.36it/s][A
+Iteration:   0%|          | 75/669682 [00:14<33:05:53,  5.62it/s][A
+Iteration:   0%|          | 77/669682 [00:14<33:09:07,  5.61it/s][A
+Iteration:   0%|          | 77/669682 [00:14<33:05:53,  5.62it/s][A
+Iteration:   0%|          | 76/669682 [00:14<33:14:44,  5.59it/s][A
+Iteration:   0%|          | 81/669682 [00:15<34:36:20,  5.37it/s][A
+Iteration:   0%|          | 78/669682 [00:14<33:07:39,  5.61it/s][A
+Iteration:   0%|          | 82/669682 [00:15<34:38:20,  5.37it/s][A
+Iteration:   0%|          | 78/669682 [00:14<33:07:46,  5.61it/s][A
+Iteration:   0%|          | 77/669682 [00:14<33:14:19,  5.60it/s][A
+Iteration:   0%|          | 83/669682 [00:15<34:17:51,  5.42it/s][A
+Iteration:   0%|          | 79/669682 [00:14<32:56:52,  5.65it/s][A
+Iteration:   0%|          | 79/669682 [00:14<33:06:46,  5.62it/s][A
+Iteration:   0%|          | 78/669682 [00:14<33:11:17,  5.60it/s][A
+Iteration:   0%|          | 80/669682 [00:15<33:00:33,  5.63it/s][A
+Iteration:   0%|          | 80/669682 [00:15<32:56:05,  5.65it/s][A
+Iteration:   0%|          | 84/669682 [00:15<34:08:23,  5.45it/s][A
+Iteration:   0%|          | 79/669682 [00:15<33:09:14,  5.61it/s][A
+Iteration:   0%|          | 81/669682 [00:15<32:55:21,  5.65it/s][A
+Iteration:   0%|          | 85/669682 [00:15<34:06:47,  5.45it/s][A
+Iteration:   0%|          | 80/669682 [00:15<32:56:58,  5.65it/s][A
+Iteration:   0%|          | 81/669682 [00:15<32:54:15,  5.65it/s][A
+Iteration:   0%|          | 81/669682 [00:15<33:04:20,  5.62it/s][A
+Iteration:   0%|          | 82/669682 [00:15<33:05:41,  5.62it/s][A
+Iteration:   0%|          | 82/669682 [00:15<32:43:56,  5.68it/s][A
+Iteration:   0%|          | 86/669682 [00:15<34:06:42,  5.45it/s][A
+Iteration:   0%|          | 87/669682 [00:16<34:11:43,  5.44it/s][A
+Iteration:   0%|          | 83/669682 [00:15<33:07:37,  5.61it/s][A
+Iteration:   0%|          | 82/669682 [00:15<32:53:25,  5.66it/s][A
+Iteration:   0%|          | 83/669682 [00:15<33:05:38,  5.62it/s][A
+Iteration:   0%|          | 84/669682 [00:15<32:58:14,  5.64it/s][A
+Iteration:   0%|          | 83/669682 [00:15<33:04:05,  5.62it/s][A
+Iteration:   0%|          | 88/669682 [00:16<33:50:38,  5.50it/s][A
+Iteration:   0%|          | 84/669682 [00:15<33:06:47,  5.62it/s][A
+Iteration:   0%|          | 84/669682 [00:15<32:56:40,  5.65it/s][A
+Iteration:   0%|          | 85/669682 [00:16<32:50:18,  5.66it/s][A
+Iteration:   0%|          | 89/669682 [00:16<33:59:06,  5.47it/s][A
+Iteration:   0%|          | 85/669682 [00:16<33:36:36,  5.53it/s][A
+Iteration:   0%|          | 85/669682 [00:16<32:49:14,  5.67it/s][A
+Iteration:   0%|          | 86/669682 [00:16<32:58:23,  5.64it/s][A
+Iteration:   0%|          | 90/669682 [00:16<33:54:06,  5.49it/s][A
+Iteration:   0%|          | 86/669682 [00:16<33:25:51,  5.56it/s][A
+Iteration:   0%|          | 91/669682 [00:16<33:53:13,  5.49it/s][A
+Iteration:   0%|          | 86/669682 [00:16<32:55:21,  5.65it/s][A
+Iteration:   0%|          | 87/669682 [00:16<32:59:03,  5.64it/s][A
+Iteration:   0%|          | 87/669682 [00:16<33:15:42,  5.59it/s][A
+Iteration:   0%|          | 92/669682 [00:17<33:37:41,  5.53it/s][A
+Iteration:   0%|          | 87/669682 [00:16<32:53:10,  5.66it/s][A
+Iteration:   0%|          | 88/669682 [00:16<33:00:22,  5.64it/s][A
+Iteration:   0%|          | 88/669682 [00:16<33:20:45,  5.58it/s][A
+Iteration:   0%|          | 93/669682 [00:17<33:31:08,  5.55it/s][A
+Iteration:   0%|          | 88/669682 [00:16<32:52:59,  5.66it/s][A
+Iteration:   0%|          | 89/669682 [00:16<32:53:14,  5.66it/s][A
+Iteration:   0%|          | 89/669682 [00:16<33:13:36,  5.60it/s][A
+Iteration:   0%|          | 89/669682 [00:16<32:44:15,  5.68it/s][A
+Iteration:   0%|          | 94/669682 [00:17<33:24:21,  5.57it/s][A
+Iteration:   0%|          | 90/669682 [00:16<32:51:10,  5.66it/s][A
+Iteration:   0%|          | 90/669682 [00:16<33:17:30,  5.59it/s][A
+Iteration:   0%|          | 91/669682 [00:17<32:59:53,  5.64it/s][A
+Iteration:   0%|          | 90/669682 [00:17<32:44:32,  5.68it/s][A
+Iteration:   0%|          | 95/669682 [00:17<33:27:30,  5.56it/s][A
+Iteration:   0%|          | 91/669682 [00:17<33:21:24,  5.58it/s][A
+Iteration:   0%|          | 92/669682 [00:17<32:50:54,  5.66it/s][A
+Iteration:   0%|          | 91/669682 [00:17<32:53:50,  5.65it/s][A
+Iteration:   0%|          | 96/669682 [00:17<33:36:34,  5.53it/s][A
+Iteration:   0%|          | 92/669682 [00:17<33:12:45,  5.60it/s][A
+Iteration:   0%|          | 92/669682 [00:17<32:47:44,  5.67it/s][A
+Iteration:   0%|          | 93/669682 [00:17<32:42:58,  5.69it/s][A
+Iteration:   0%|          | 97/669682 [00:17<33:26:28,  5.56it/s][A
+Iteration:   0%|          | 93/669682 [00:17<33:05:42,  5.62it/s][A
+Iteration:   0%|          | 94/669682 [00:17<32:40:35,  5.69it/s][A
+Iteration:   0%|          | 93/669682 [00:17<32:41:05,  5.69it/s][A
+Iteration:   0%|          | 98/669682 [00:18<33:29:09,  5.55it/s][A
+Iteration:   0%|          | 94/669682 [00:17<33:01:17,  5.63it/s][A
+Iteration:   0%|          | 95/669682 [00:17<32:31:48,  5.72it/s][A
+Iteration:   0%|          | 94/669682 [00:17<32:34:40,  5.71it/s][A
+Iteration:   0%|          | 95/669682 [00:17<33:07:17,  5.62it/s][A
+Iteration:   0%|          | 95/669682 [00:17<32:31:00,  5.72it/s][A
+Iteration:   0%|          | 96/669682 [00:17<32:26:09,  5.73it/s][A
+Iteration:   0%|          | 97/669682 [00:18<32:06:45,  5.79it/s][A
+Iteration:   0%|          | 96/669682 [00:17<32:01:54,  5.81it/s][A
+Iteration:   0%|          | 96/669682 [00:18<33:05:39,  5.62it/s][A
+Iteration:   0%|          | 97/669682 [00:18<31:42:20,  5.87it/s][A
+Iteration:   0%|          | 97/669682 [00:18<33:02:38,  5.63it/s][A
+Iteration:   0%|          | 98/669682 [00:18<31:39:54,  5.87it/s][A
+Iteration:   0%|          | 98/669682 [00:18<32:39:48,  5.69it/s][A
+Iteration:   0%|          | 98/669682 [00:18<31:13:44,  5.96it/s][A
+Iteration:   0%|          | 99/669682 [00:18<31:24:40,  5.92it/s][A
+Iteration:   0%|          | 100/669682 [01:21<620:55:52,  3.34s/it][A
+Iteration:   0%|          | 102/669682 [01:21<562:59:42,  3.03s/it][A
+Iteration:   0%|          | 104/669682 [01:21<512:47:02,  2.76s/it][A
+Iteration:   0%|          | 106/669682 [01:22<469:08:15,  2.52s/it][A
+Iteration:   0%|          | 99/669682 [00:18<32:35:43,  5.71it/s][A
+Iteration:   0%|          | 99/669682 [00:18<33:21:34,  5.58it/s][A
+Iteration:   0%|          | 108/669682 [01:22<430:40:27,  2.32s/it][A
+Iteration:   0%|          | 99/669682 [00:18<31:42:30,  5.87it/s][A
+Iteration:   0%|          | 100/669682 [01:22<628:07:27,  3.38s/it][A
+Iteration:   0%|          | 100/669682 [01:22<635:38:38,  3.42s/it][A
+Iteration:   0%|          | 110/669682 [01:22<396:53:58,  2.13s/it][A
+Iteration:   0%|          | 100/669682 [01:22<627:40:00,  3.37s/it][A
+Iteration:   0%|          | 101/669682 [01:22<605:05:38,  3.25s/it][A
+Iteration:   0%|          | 101/669682 [01:22<597:49:50,  3.21s/it][A
+Iteration:   0%|          | 111/669682 [01:22<381:32:49,  2.05s/it][A
+Iteration:   0%|          | 101/669682 [01:22<597:28:48,  3.21s/it][A
+Iteration:   0%|          | 112/669682 [01:22<367:09:35,  1.97s/it][A
+Iteration:   0%|          | 102/669682 [01:22<568:57:40,  3.06s/it][A
+Iteration:   0%|          | 102/669682 [01:22<569:52:58,  3.06s/it][A
+Iteration:   0%|          | 102/669682 [01:23<576:25:45,  3.10s/it][A
+Iteration:   0%|          | 103/669682 [01:22<542:59:29,  2.92s/it][A
+Iteration:   0%|          | 113/669682 [01:22<352:52:28,  1.90s/it][A
+Iteration:   0%|          | 103/669682 [01:23<549:18:26,  2.95s/it][A
+Iteration:   0%|          | 103/669682 [01:22<541:45:24,  2.91s/it][A
+Iteration:   0%|          | 104/669682 [01:23<523:17:46,  2.81s/it][A
+Iteration:   0%|          | 114/669682 [01:23<339:29:22,  1.83s/it][A
+Iteration:   0%|          | 104/669682 [01:23<517:10:17,  2.78s/it][A
+Iteration:   0%|          | 104/669682 [01:23<516:31:34,  2.78s/it][A
+Iteration:   0%|          | 115/669682 [01:23<326:26:41,  1.76s/it][A
+Iteration:   0%|          | 105/669682 [01:23<498:29:58,  2.68s/it][A
+Iteration:   0%|          | 105/669682 [01:23<493:08:26,  2.65s/it][A
+Iteration:   0%|          | 105/669682 [01:23<492:18:02,  2.65s/it][A
+Iteration:   0%|          | 106/669682 [01:23<475:18:19,  2.56s/it][A
+Iteration:   0%|          | 106/669682 [01:23<470:03:26,  2.53s/it][A
+Iteration:   0%|          | 116/669682 [01:23<313:50:37,  1.69s/it][A
+Iteration:   0%|          | 106/669682 [01:23<469:14:37,  2.52s/it][A
+Iteration:   0%|          | 117/669682 [01:23<301:48:37,  1.62s/it][A
+Iteration:   0%|          | 107/669682 [01:24<453:02:39,  2.44s/it][A
+Iteration:   0%|          | 107/669682 [01:23<447:21:05,  2.41s/it][A
+Iteration:   0%|          | 107/669682 [01:23<447:58:25,  2.41s/it][A
+Iteration:   0%|          | 118/669682 [01:23<290:00:47,  1.56s/it][A
+Iteration:   0%|          | 108/669682 [01:23<426:31:37,  2.29s/it][A
+Iteration:   0%|          | 108/669682 [01:24<432:04:54,  2.32s/it][A
+Iteration:   0%|          | 108/669682 [01:23<427:27:17,  2.30s/it][A
+Iteration:   0%|          | 119/669682 [01:23<278:37:06,  1.50s/it][A
+Iteration:   0%|          | 109/669682 [01:24<412:04:02,  2.22s/it][A
+Iteration:   0%|          | 109/669682 [01:23<407:32:08,  2.19s/it][A
+Iteration:   0%|          | 109/669682 [01:23<406:38:49,  2.19s/it][A
+Iteration:   0%|          | 110/669682 [01:24<392:57:04,  2.11s/it][A
+Iteration:   0%|          | 110/669682 [01:24<388:35:39,  2.09s/it][A
+Iteration:   0%|          | 110/669682 [01:24<387:55:45,  2.09s/it][A
+Iteration:   0%|          | 120/669682 [01:24<267:45:11,  1.44s/it][A
+Iteration:   0%|          | 111/669682 [01:24<374:39:10,  2.01s/it][A
+Iteration:   0%|          | 121/669682 [01:24<257:29:15,  1.38s/it][A
+Iteration:   0%|          | 111/669682 [01:24<370:02:49,  1.99s/it][A
+Iteration:   0%|          | 111/669682 [01:24<370:39:07,  1.99s/it][A
+Iteration:   0%|          | 112/669682 [01:24<357:29:55,  1.92s/it][A
+Iteration:   0%|          | 122/669682 [01:24<247:24:30,  1.33s/it][A
+Iteration:   0%|          | 112/669682 [01:24<353:07:09,  1.90s/it][A
+Iteration:   0%|          | 112/669682 [01:24<353:50:22,  1.90s/it][A
+Iteration:   0%|          | 113/669682 [01:25<341:15:18,  1.83s/it][A
+Iteration:   0%|          | 113/669682 [01:24<337:01:00,  1.81s/it][A
+Iteration:   0%|          | 123/669682 [01:24<237:44:13,  1.28s/it][A
+Iteration:   0%|          | 113/669682 [01:24<337:49:07,  1.82s/it][A
+Iteration:   0%|          | 114/669682 [01:24<322:28:36,  1.73s/it][A
+Iteration:   0%|          | 124/669682 [01:24<228:35:48,  1.23s/it][A
+Iteration:   0%|          | 114/669682 [01:25<325:51:36,  1.75s/it][A
+Iteration:   0%|          | 114/669682 [01:24<321:49:07,  1.73s/it][A
+Iteration:   0%|          | 115/669682 [01:25<311:21:52,  1.67s/it][A
+Iteration:   0%|          | 115/669682 [01:24<307:42:42,  1.65s/it][A
+Iteration:   0%|          | 125/669682 [01:24<219:36:39,  1.18s/it][A
+Iteration:   0%|          | 115/669682 [01:24<307:26:29,  1.65s/it][A
+Iteration:   0%|          | 126/669682 [01:25<211:07:47,  1.14s/it][A
+Iteration:   0%|          | 116/669682 [01:25<293:58:20,  1.58s/it][A
+Iteration:   0%|          | 116/669682 [01:25<293:37:54,  1.58s/it][A
+Iteration:   0%|          | 116/669682 [01:25<297:12:47,  1.60s/it][A
+Iteration:   0%|          | 117/669682 [01:25<280:47:15,  1.51s/it][A
+Iteration:   0%|          | 127/669682 [01:25<202:44:01,  1.09s/it][A
+Iteration:   0%|          | 117/669682 [01:25<284:09:11,  1.53s/it][A
+Iteration:   0%|          | 117/669682 [01:25<280:26:07,  1.51s/it][A
+Iteration:   0%|          | 128/669682 [01:25<195:07:25,  1.05s/it][A
+Iteration:   0%|          | 118/669682 [01:26<271:34:03,  1.46s/it][A
+Iteration:   0%|          | 118/669682 [01:25<268:29:29,  1.44s/it][A
+Iteration:   0%|          | 118/669682 [01:25<268:10:45,  1.44s/it][A
+Iteration:   0%|          | 129/669682 [01:25<187:30:37,  1.01s/it][A
+Iteration:   0%|          | 119/669682 [01:25<256:25:42,  1.38s/it][A
+Iteration:   0%|          | 119/669682 [01:26<259:31:36,  1.40s/it][A
+Iteration:   0%|          | 119/669682 [01:25<256:52:24,  1.38s/it][A
+Iteration:   0%|          | 130/669682 [01:25<180:37:19,  1.03it/s][A
+Iteration:   0%|          | 120/669682 [01:26<248:19:47,  1.34s/it][A
+Iteration:   0%|          | 120/669682 [01:25<245:10:32,  1.32s/it][A
+Iteration:   0%|          | 120/669682 [01:25<245:53:19,  1.32s/it][A
+Iteration:   0%|          | 121/669682 [01:26<234:30:29,  1.26s/it][A
+Iteration:   0%|          | 131/669682 [01:26<173:40:34,  1.07it/s][A
+Iteration:   0%|          | 121/669682 [01:26<237:27:09,  1.28s/it][A
+Iteration:   0%|          | 121/669682 [01:26<235:04:50,  1.26s/it][A
+Iteration:   0%|          | 122/669682 [01:26<227:16:58,  1.22s/it][A
+Iteration:   0%|          | 122/669682 [01:26<224:13:22,  1.21s/it][A
+Iteration:   0%|          | 132/669682 [01:26<167:12:34,  1.11it/s][A
+Iteration:   0%|          | 122/669682 [01:26<224:54:07,  1.21s/it][A
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+Iteration:   0%|          | 123/669682 [01:26<214:44:21,  1.15s/it][Aslurmstepd: error: *** STEP 143056.0 ON JX-ZY-GPU21 CANCELLED AT 2022-07-12T10:43:14 ***
+slurmstepd: error: *** JOB 143056 ON JX-ZY-GPU21 CANCELLED AT 2022-07-12T10:43:14 ***
